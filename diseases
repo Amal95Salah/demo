@@ -1,0 +1,19 @@
+{
+	"Message": [{
+			"id": "12",
+			"disease": "diease1",
+			"description": "increase in body temp"
+		},
+		{
+			"id": "13",
+			"disease": "diease2",
+			"description": "increase in body temp"
+		},
+		{
+			"id": "14",
+			"disease": "diease3",
+			"description": "increase in body temp"
+		}
+	],
+	"success": "true"
+}
