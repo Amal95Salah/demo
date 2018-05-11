@@ -1,0 +1,23 @@
+{
+	"Clinics": [{
+			"id": "12",
+			"Name": "clinics",
+			"Type": "increase in body temp",
+	  		"Location":"Ramallah"
+		},
+		{
+			"id": "13",
+			"Name": "clinics2",
+			"Type": "increase in body temp",
+	  		"Location":"Ramallah"
+		},
+		{
+			"id": "13",
+			"Name": "clinics3",
+			"Type": "increase in body temp",
+	  		"Location":"Ramallah"
+		}
+	],
+	  	"Message": "messages",
+	"success": "true"
+}
