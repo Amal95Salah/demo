@@ -1,0 +1,35 @@
+{
+	"Doctors": [{
+			"name": "Ahmad",
+			"specialty_id": "2",
+			"mobile": "059999999",
+			"location": "Ramallah",
+			"password": "123456789",
+			"city": "Ramallah",
+			"email": "user@gmail.com",
+			"clinic_id": "1"
+		},
+		{
+			"name": "Amal",
+			"specialty_id": "3",
+			"mobile": "059999999",
+			"location": "Ramallah",
+			"password": "123456789",
+			"city": "Ramallah",
+			"email": "user@gmail.com",
+			"clinic_id": "1"
+		},
+		{
+			"name": "doctorName",
+			"specialty_id": "1",
+			"mobile": "059999999",
+			"location": "Ramallah",
+			"password": "123456789",
+			"city": "Ramallah",
+			"email": "user@gmail.com",
+			"clinic_id": "1"
+		}
+	],
+	"Message": "messages",
+	"success": "true"
+}
