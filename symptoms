@@ -1,0 +1,1644 @@
+{
+"symptom": [
+{
+"id": 1,
+"symptoms": "Upper abdominal pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 2,
+"symptoms": "Lower abdominal pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 3,
+"symptoms": "Abscess (Collection of pus)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 4,
+"symptoms": "Alcohol abuse",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 5,
+"symptoms": "Anxiety (Nervousness)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 6,
+"symptoms": "Arm ache or pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 7,
+"symptoms": "Back ache or pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 8,
+"symptoms": "Bleeding tendency",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 9,
+"symptoms": "Blood in vomit",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 10,
+"symptoms": "Bloody diarrhea",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 11,
+"symptoms": "Pain or soreness of breast",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 12,
+"symptoms": "Calf pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 13,
+"symptoms": "Chest pressure",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 14,
+"symptoms": "Chills",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 15,
+"symptoms": "Change in behavior",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 16,
+"symptoms": "Constipation",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 17,
+"symptoms": "Cough",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 18,
+"symptoms": "Dark stools",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 19,
+"symptoms": "Depressed",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 20,
+"symptoms": "Diarrhea",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 21,
+"symptoms": "Dizziness",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 22,
+"symptoms": "Double vision (Diplopia)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 23,
+"symptoms": "Ear pressure",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 24,
+"symptoms": "Pain in the ear",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 25,
+"symptoms": "Elbow ache or pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 26,
+"symptoms": "Eye pain (Irritation)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 27,
+"symptoms": "Facial pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 28,
+"symptoms": "Fainting",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 29,
+"symptoms": "Fever",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 30,
+"symptoms": "Fever in the returning traveler",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 31,
+"symptoms": "Fever of unknown origin",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 32,
+"symptoms": "Flank pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 33,
+"symptoms": "Frequent urination (Frequency)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 34,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 35,
+"symptoms": "Foot pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 36,
+"symptoms": "Cranky, crying, fussy, irritable child",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 37,
+"symptoms": "Groin pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 38,
+"symptoms": "Delusions or hallucinations",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 39,
+"symptoms": "Hand, finger ache or pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 40,
+"symptoms": "Head injury",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 41,
+"symptoms": "Headache",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 42,
+"symptoms": "Heel pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 43,
+"symptoms": "Heat illness",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 44,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 45,
+"symptoms": "Hip pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 46,
+"symptoms": "Hives",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 47,
+"symptoms": "Hoarse voice",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 48,
+"symptoms": "Hypothermia (Low temperature)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 49,
+"symptoms": "Incontinence (leaking urine)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 50,
+"symptoms": "Insect sting",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 51,
+"symptoms": "Insomnia (Trouble sleeping)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 52,
+"symptoms": "Skin itching",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 53,
+"symptoms": "Joint pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 54,
+"symptoms": "Kidney pain (Flank pain)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 55,
+"symptoms": "Knee pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 56,
+"symptoms": "Laceration",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 57,
+"symptoms": "Leg ache or pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 58,
+"symptoms": "Swelling of both legs",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 59,
+"symptoms": "Lethargy (Sluggishness)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 60,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 61,
+"symptoms": "Mouth pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 62,
+"symptoms": "Muscle pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 63,
+"symptoms": "Nail Injury",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 64,
+"symptoms": "Nasal bleeding",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 65,
+"symptoms": "Nasal injury",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 66,
+"symptoms": "Nausea",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 67,
+"symptoms": "Neck ache or pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 68,
+"symptoms": "Neck swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 69,
+"symptoms": "Numbness",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 70,
+"symptoms": "Obesity",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 71,
+"symptoms": "Overdose",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 72,
+"symptoms": "Painful urination",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 73,
+"symptoms": "Heart pulsations and palpitations",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 74,
+"symptoms": "Pelvic pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 75,
+"symptoms": "Penile discharge",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 76,
+"symptoms": "Penis pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 77,
+"symptoms": "Poisoning",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 78,
+"symptoms": "Pregnancy problem",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 79,
+"symptoms": "Psychiatric problem",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 80,
+"symptoms": "Puncture wound",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 81,
+"symptoms": "Rash",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 82,
+"symptoms": "Rectal pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 83,
+"symptoms": "Rectal swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 84,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 85,
+"symptoms": "Scrotal pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 86,
+"symptoms": "Scrotal swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 87,
+"symptoms": "Seizure",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 88,
+"symptoms": "Shortness of breath",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 89,
+"symptoms": "Shoulder ache or pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 90,
+"symptoms": "Sinus pain and pressure",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 91,
+"symptoms": "Skin trauma",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 92,
+"symptoms": "Snake bite",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 93,
+"symptoms": "Sore throat",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 94,
+"symptoms": "Speech problem",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 95,
+"symptoms": "Spider bite",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 96,
+"symptoms": "Substance abuse (Drug abuse)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 97,
+"symptoms": "Suicidal tendencies",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 98,
+"symptoms": "Swallowing problem (Dysphagia)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 99,
+"symptoms": "Swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 100,
+"symptoms": "Toe pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 101,
+"symptoms": "Tooth pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 102,
+"symptoms": "Trauma",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 103,
+"symptoms": "Traveler's diarrhea",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 104,
+"symptoms": "Unsteady gait (Trouble walking)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 105,
+"symptoms": "Vaginal bleeding",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 106,
+"symptoms": "Vaginal bleeding after menopause",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 107,
+"symptoms": "Vaginal bleeding during pregnancy",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 108,
+"symptoms": "Vaginal discharge",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 109,
+"symptoms": "Vaginal itching",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 110,
+"symptoms": "Vaginal pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 111,
+"symptoms": "Vertigo (Room spinning)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 112,
+"symptoms": "Visual problems",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 113,
+"symptoms": "Vomiting",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 114,
+"symptoms": "General weakness",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 115,
+"symptoms": "Weakness (Muscle localized)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 116,
+"symptoms": "Tired",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 117,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 118,
+"symptoms": "Wrist pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 119,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 120,
+"symptoms": "Throat pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 121,
+"symptoms": "Tremors",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 122,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 123,
+"symptoms": "Weight loss, unexplained",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 125,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 126,
+"symptoms": "Tongue swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 127,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 128,
+"symptoms": "Inconsolable baby",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 129,
+"symptoms": "Wheezing (Noisy breathing)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 130,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 131,
+"symptoms": "Swollen lymph nodes (Large lymph nodes)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 132,
+"symptoms": "Failure to thrive",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 133,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 134,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 135,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 136,
+"symptoms": "Behavioral problem",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 137,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 138,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 139,
+"symptoms": "Itchy rash (Pruritic rash)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 144,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 145,
+"symptoms": "Headache after trauma",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 146,
+"symptoms": "Learning difficulties",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 147,
+"symptoms": "Blood in urine (Hematuria)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 148,
+"symptoms": "Urinary retention (Inability to urinate)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 149,
+"symptoms": "Liver failure (Cirrhosis)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 150,
+"symptoms": "Choking",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 151,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 152,
+"symptoms": "Painful rash",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 153,
+"symptoms": "Ingestion",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 154,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 155,
+"symptoms": "Melena (Black stools from blood)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 156,
+"symptoms": "Vomiting coffee ground material",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 157,
+"symptoms": "Ringing in ears (Tinnitus)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 158,
+"symptoms": "Mouth ulcers",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 159,
+"symptoms": "Mouth swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 160,
+"symptoms": "Eye redness",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 162,
+"symptoms": "Sneezing",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 163,
+"symptoms": "Bleeding gums",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 164,
+"symptoms": "Loss of balance",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 165,
+"symptoms": "Bleeding in brain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 170,
+"symptoms": "Cyanosis (Blue skin coloration)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 171,
+"symptoms": "Muscle spasm",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 172,
+"symptoms": "Drooling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 173,
+"symptoms": "Abdominal swelling (Stomach swelling)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 174,
+"symptoms": "Skin growths",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 175,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 176,
+"symptoms": "Hand numbness (paresthesias)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 177,
+"symptoms": "Ankle pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 178,
+"symptoms": "Hemoptysis (Coughing blood)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 179,
+"symptoms": "Jaundice (Yellowing skin)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 180,
+"symptoms": "Night sweats",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 181,
+"symptoms": "Flatulence (Passing gas)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 182,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 183,
+"symptoms": "Blister (Pocket of fluid)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 186,
+"symptoms": "Hair loss (Baldness)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 187,
+"symptoms": "Jaw pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 188,
+"symptoms": "Impotence",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 189,
+"symptoms": "Heart murmur (Abnormal heart sound)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 190,
+"symptoms": "Pustule (Collection of pus)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 191,
+"symptoms": "Skin pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 192,
+"symptoms": "Hot skin",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 193,
+"symptoms": "Skin swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 194,
+"symptoms": "Lip swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 195,
+"symptoms": "Eye swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 196,
+"symptoms": "Foot swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 197,
+"symptoms": "Visual flashing lights",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 198,
+"symptoms": "Eye floaters",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 199,
+"symptoms": "Amenorrhea (No menstruation)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 200,
+"symptoms": "Blurry vision",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 201,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 202,
+"symptoms": "Painful gums",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 203,
+"symptoms": "Swollen gums",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 204,
+"symptoms": "Low blood sugar",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 205,
+"symptoms": "Low blood pressure",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 206,
+"symptoms": "Darkening of the skin (Hyperpigmentation)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 207,
+"symptoms": "Low heart rate",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 208,
+"symptoms": "Foot itching",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 209,
+"symptoms": "Hot flashes",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 210,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 211,
+"symptoms": "Infertility (Female)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 212,
+"symptoms": "Increased facial hair",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 213,
+"symptoms": "Arm swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 214,
+"symptoms": "Calf swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 215,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 216,
+"symptoms": "Ear swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 217,
+"symptoms": "Wrist swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 218,
+"symptoms": "Maroon stools",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 219,
+"symptoms": "Arm cut (laceration)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 220,
+"symptoms": "Hand cut (laceration)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 221,
+"symptoms": "Leg cut (laceration)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 222,
+"symptoms": "Foot cut (laceration)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 223,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 224,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 225,
+"symptoms": "Arm itching",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 226,
+"symptoms": "Hand redness",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 227,
+"symptoms": "Foot redness",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 228,
+"symptoms": "Arm redness",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 229,
+"symptoms": "Leg redness",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 230,
+"symptoms": "Hand itching",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 231,
+"symptoms": "Leg itching",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 232,
+"symptoms": "Steatorrhea (Excess fat in stool)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 233,
+"symptoms": "Upper leg pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 234,
+"symptoms": "Armpit pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 235,
+"symptoms": "Sweating",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 236,
+"symptoms": "Nasal congestion",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 237,
+"symptoms": "Joint stiffness",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 238,
+"symptoms": "Skin sores",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 239,
+"symptoms": "Chest burning",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 240,
+"symptoms": "Memory loss",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 241,
+"symptoms": "Arm numbness (paresthesias)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 242,
+"symptoms": "Leg numbness (paresthesias)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 243,
+"symptoms": "Foot numbness (paresthesias)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 244,
+"symptoms": "Face numbness (paresthesias)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 245,
+"symptoms": "",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 246,
+"symptoms": "Dementia",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 247,
+"symptoms": "Facial droop (weakness)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 248,
+"symptoms": "Limping in a child",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 249,
+"symptoms": "Increased thirst",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 250,
+"symptoms": "Increased urination (polyuria)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 251,
+"symptoms": "Shin pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 252,
+"symptoms": "Stings",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 254,
+"symptoms": "Sleep disorders",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 255,
+"symptoms": "Drooping eyelid (Ptosis)",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 257,
+"symptoms": "Snoring",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 258,
+"symptoms": "Dry skin",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 259,
+"symptoms": "Itchy eyes",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 261,
+"symptoms": "Elbow swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 262,
+"symptoms": "Chest pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 263,
+"symptoms": "Skin infection",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 264,
+"symptoms": "Stomach and abdominal pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 265,
+"symptoms": "Anger",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 269,
+"symptoms": "Hurts to breathe",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 270,
+"symptoms": "Difficulty breathing",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 271,
+"symptoms": "Pulling at ears",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 272,
+"symptoms": "Skin bumps",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 273,
+"symptoms": "Congestion in chest or lungs",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 274,
+"symptoms": "Discharge from ear",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 275,
+"symptoms": "Low back ache or pain",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 277,
+"symptoms": "Unusual color or odor of urine",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 281,
+"symptoms": "Penis inflammation or swelling",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 282,
+"symptoms": "Excessive appetite",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 284,
+"symptoms": "Retaining fluid",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 287,
+"symptoms": "Lump or mass of breast",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 290,
+"symptoms": "Neck stiffness or tightness",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 291,
+"symptoms": "Agitated",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 292,
+"symptoms": "Confusion",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 293,
+"symptoms": "Headache and weakness",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 294,
+"symptoms": "Confusion and headache",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 295,
+"symptoms": "Nipple discharge",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 301,
+"symptoms": "Shoulder stiffness or tightness",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 303,
+"symptoms": "Arm stiffness or tightness",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 304,
+"symptoms": "High blood pressure",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 306,
+"symptoms": "High blood sugar",
+"created_at": "-0001-11-30 00:00:00",
+"updated_at": "-0001-11-30 00:00:00"
+},
+{
+"id": 307,
+"symptoms": "XMainSymptom",
+"created_at": "2018-05-13 10:01:20",
+"updated_at": "2018-05-13 10:01:20"
+}
+],
+"Message": "List Of symptoms",
+"success": true
+}
