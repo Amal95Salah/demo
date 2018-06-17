@@ -1,0 +1,3507 @@
+{
+"Diseas": [
+{
+"name": "Abdominal aortic aneurysm\u000b(enlarged major blood vessel)"
+},
+{
+"name": "Abdominal swelling"
+},
+{
+"name": "Abdominal trauma"
+},
+{
+"name": "Abrasions\u000b (scrapes)"
+},
+{
+"name": "ACE inhibitor induced cough"
+},
+{
+"name": "acetaminophen overdose\u000bAdverse reaction to acetaminophen"
+},
+{
+"name": "Tylenol \u000bacetaminophen poisoning"
+},
+{
+"name": "Achilles tendonitis\u000b (heel tendon inflammation)"
+},
+{
+"name": "Achilles tendon rupture\u000b(heel tendon tear)"
+},
+{
+"name": "Acid \u000bLSD abuse"
+},
+{
+"name": "Acidosis\u000b (excessive acid in the body)"
+},
+{
+"name": "Acoustic neuroma\u000b(ear nerve tumor)"
+},
+{
+"name": "AC joint separation\u000bacromioclavicular joint separation\u000bclosed separation of acromioclavicular joint"
+},
+{
+"name": "Acute angle closure glaucoma\u000bincreased inner eye pressure"
+},
+{
+"name": "Acute fatty liver of pregnancy"
+},
+{
+"name": "Adenoiditis\u000b(a type of lymph node inflammation)"
+},
+{
+"name": "Adenovirus infection\u000b (virus infection)"
+},
+{
+"name": "Frozen shoulder\u000b (adhesive capsulitis of shoulder)"
+},
+{
+"name": "Adjustment disorder\u000b (poor adjustment to life stressor)"
+},
+{
+"name": "Alcohol \u000bethanol intoxication"
+},
+{
+"name": "Alcohol \u000bethanol abuse"
+},
+{
+"name": "Alcohol \u000bethanol poisoning\u000b (overdose)"
+},
+{
+"name": "Alcohol withdrawal syndrome\u000b (mild)"
+},
+{
+"name": "Alcoholism"
+},
+{
+"name": "Allergic reaction"
+},
+{
+"name": "Allergic rhinitis"
+},
+{
+"name": "Allergy"
+},
+{
+"name": "Confusion\u000b (altered mental status)"
+},
+{
+"name": "Altered mental status\u000bconfusion"
+},
+{
+"name": "Altitude illness\u000bIllnesses due to high altitude effects"
+},
+{
+"name": "Amebiasis\u000bameba infection"
+},
+{
+"name": "Amphetamine abuse"
+},
+{
+"name": "Amphetamine overdose"
+},
+{
+"name": "Anal fissure\u000b (tear)"
+},
+{
+"name": "Anaphylactoid reactions\u000b (pseudo allergic reaction)"
+},
+{
+"name": "Anaphylaxis\u000b(severe/life threatening allergic reaction)"
+},
+{
+"name": "Anemia\u000b (low red blood cell count)"
+},
+{
+"name": "Ankle laceration\u000b (cut in skin)"
+},
+{
+"name": "Ankle swelling"
+},
+{
+"name": "Ankylosing spondylitis\u000b (severe spine arthritis)"
+},
+{
+"name": "Anopheles\u000bmosquito bite"
+},
+{
+"name": "Anorectal abscess\u000b(perirectal) abscess"
+},
+{
+"name": "Anorexia\u000b(eating disorder)"
+},
+{
+"name": "Anorexia nervosa\u000b (eating disorder)"
+},
+{
+"name": "Ant bite"
+},
+{
+"name": "Anticholinergic drug overdose"
+},
+{
+"name": "Antidepressant overdose"
+},
+{
+"name": "Anxiety"
+},
+{
+"name": "Anxiety disorder\u000bgeneralized anxiety disorder\u000bGAD"
+},
+{
+"name": "Aortic valve stenosis\u000btight heart valve"
+},
+{
+"name": "Aphthous ulcers\u000bmouth stomatitis"
+},
+{
+"name": "Aplastic anemia\u000bbone marrow failure"
+},
+{
+"name": "Appendicitis"
+},
+{
+"name": "Arm laceration\u000bskin cut"
+},
+{
+"name": "Arm swelling"
+},
+{
+"name": "Arrhythmia\u000babnormal heart rhythm"
+},
+{
+"name": "Arteriovenous malformation\u000bblood vessel abnormality, AVM"
+},
+{
+"name": "Arthritis\u000bjoint inflammation"
+},
+{
+"name": "Aseptic joint effusion\u000bfluid in a joint\u000bEffusion of joint"
+},
+{
+"name": "Aseptic necrosis of bone\u000bbone death and destruction"
+},
+{
+"name": "Aspirin\u000bsalicylates overdose"
+},
+{
+"name": "Asthma"
+},
+{
+"name": "Atopic dermatitis\u000beczema"
+},
+{
+"name": "Atrial fibrillation\u000birregular heart rate"
+},
+{
+"name": "Atrioventricular node conduction block\u000bheart block"
+},
+{
+"name": "Atypical pneumonia\u000blung infection"
+},
+{
+"name": "Autoimmune conditions"
+},
+{
+"name": "Autoimmune disease"
+},
+{
+"name": "Avulsions\u000bforcible tissue detachment"
+},
+{
+"name": "Back trauma\u000binjury"
+},
+{
+"name": "Bacterial dysentery\u000bbacterial infection of the intestines"
+},
+{
+"name": "Bacterial infection"
+},
+{
+"name": "Bacterial overgrowth of small intestine\u000bBacterial Overgrowth Syndrome"
+},
+{
+"name": "Bacterial vaginosis\u000bvaginal infection"
+},
+{
+"name": "Baker's cyst\u000bfluid sac behind knee"
+},
+{
+"name": "Balanitis\u000bpenis swelling"
+},
+{
+"name": "Barrett's esophagus\u000besophagus inflammation"
+},
+{
+"name": "Bartholin abscess or cyst\u000bsac of pus near the vaginal opening"
+},
+{
+"name": "Basilar artery migraine\u000bheadache"
+},
+{
+"name": "Basilar skull fracture\u000bbroken skull"
+},
+{
+"name": "Beta blocker overdose\u000bblood pressure medication overdose"
+},
+{
+"name": "Behcet?s disease\u000bsmall blood vessel inflammation disorder"
+},
+{
+"name": "Bee sting\u000bwasp sting"
+},
+{
+"name": "Bell's palsy\u000bfacial muscle weakness"
+},
+{
+"name": "Benign positional vertigo\u000bsensation of spinning"
+},
+{
+"name": "Benign prostatic hyperplasia\u000bprostate enlargement"
+},
+{
+"name": "Benzodiazepine\u000bValium abuse"
+},
+{
+"name": "Benzodiazepine\u000bValium overdose"
+},
+{
+"name": "Bipolar disorder\u000bmanic depressive disorder"
+},
+{
+"name": "Black widow spider bite"
+},
+{
+"name": "Bladder cancer"
+},
+{
+"name": "Bladder stone, urinary"
+},
+{
+"name": "Bleeding tendency\u000bbleeding disorder"
+},
+{
+"name": "Blepharitis\u000beyelid swelling"
+},
+{
+"name": "Blood loss"
+},
+{
+"name": "Body dysmorphic disorder\u000bbody appearance obsession"
+},
+{
+"name": "Bone metastases\u000bcancer spread to bone"
+},
+{
+"name": "Botulism\u000bbacterial toxin causing muscle weakness"
+},
+{
+"name": "Bradycardia\u000bslow heart rate"
+},
+{
+"name": "Brain abscess\u000bcollection of pus in the brain"
+},
+{
+"name": "Brain tumor\u000bcancer of the brain"
+},
+{
+"name": "Breast abscess\u000bcollection of pus in the breast"
+},
+{
+"name": "Breast cancer\u000btumor"
+},
+{
+"name": "Breast fat necrosis\u000bdead breast fat"
+},
+{
+"name": "Breast fibroadenoma\u000bbenign breast lumps"
+},
+{
+"name": "Bronchial asthma"
+},
+{
+"name": "Bronchiectasis\u000bbronchial tube inflammatory damage"
+},
+{
+"name": "Bronchiolitis\u000bbronchial tube inflammation"
+},
+{
+"name": "Bronchitis\u000bbronchial tube infection"
+},
+{
+"name": "Brown recluse spider bite"
+},
+{
+"name": "Bulimia nervosa\u000bbinge eating, vomiting"
+},
+{
+"name": "Burkitt lymphoma\u000blymph node tumor"
+},
+{
+"name": "Burning mouth syndrome"
+},
+{
+"name": "Burns"
+},
+{
+"name": "Bursitis\u000binflammation of joint cushion"
+},
+{
+"name": "Caffeine use"
+},
+{
+"name": "Calcium channel blocker overdose\u000bblood pressure medication overdose"
+},
+{
+"name": "Calluses and corns"
+},
+{
+"name": "Campylobacter infection\u000bintestinal bacterial infection"
+},
+{
+"name": "Cancer\u000btumor"
+},
+{
+"name": "Candida albicans\u000byeast infection"
+},
+{
+"name": "Carbon monoxide poisoning\u000bodorless, poisonous gas"
+},
+{
+"name": "Cardiac arrhythmia\u000babnormal heart rate"
+},
+{
+"name": "Cardiomyopathy\u000bweakened heart"
+},
+{
+"name": "Carotid artery dissection\u000bneck artery tear"
+},
+{
+"name": "Carotid cavernous fistula\u000babnormal blood vessel communication"
+},
+{
+"name": "Carpal tunnel syndrome\u000bwrist nerve compression"
+},
+{
+"name": "Spinal cord compression\u000bcauda equina syndrome"
+},
+{
+"name": "Cavernous sinus aneurysm\u000bhead vein dilation"
+},
+{
+"name": "Cavernous sinus thrombosis\u000bhead vein blood clot"
+},
+{
+"name": "Cavernous sinus tumor\u000bhead vein cancer"
+},
+{
+"name": "Cavity\u000btooth caries"
+},
+{
+"name": "Celiac disease\u000bceliac sprue"
+},
+{
+"name": "Cellulitis\u000bskin infection"
+},
+{
+"name": "Cerebellar hemorrhage\u000bbleeding in back of brain"
+},
+{
+"name": "Cerebellar syndrome\u000bloss of coordination"
+},
+{
+"name": "Cerebral contusion\u000bbruise of brain"
+},
+{
+"name": "Cerebral palsy\u000bmovement disorder"
+},
+{
+"name": "Cerebral vascular accident\u000bstroke"
+},
+{
+"name": "Cerebrospinal fluid rhinorrhea\u000bleakage of brain fluid from the nose"
+},
+{
+"name": "Cerumen impaction\u000bear wax buildup"
+},
+{
+"name": "Cervical cancer\u000btumor"
+},
+{
+"name": "Cervical lymphadenopathy\u000benlarged neck lymph nodes"
+},
+{
+"name": "Cervical radiculopathy\u000bpinched nerve in neck"
+},
+{
+"name": "Cervical spine fracture\u000bbroken neck bone"
+},
+{
+"name": "Cervical spondylosis\u000bneck arthritis"
+},
+{
+"name": "Cervicitis\u000binflammation of the lower uterus"
+},
+{
+"name": "Chagas disease\u000btrypanosomiasis"
+},
+{
+"name": "Chest trauma\u000binjury"
+},
+{
+"name": "Child abuse"
+},
+{
+"name": "Chlamydia trachomatis infection\u000bSTD"
+},
+{
+"name": "Chlorine bleach ingestion"
+},
+{
+"name": "Cholangitis\u000binflammation of the bile ducts"
+},
+{
+"name": "Cholecystitis\u000binflammation of the gallbladder"
+},
+{
+"name": "Choledocholithiasis\u000bstone in bile duct"
+},
+{
+"name": "Cholelithiasis\u000bgallstones"
+},
+{
+"name": "Cholera\u000bintestinal bacterial infection"
+},
+{
+"name": "Cholesteatoma\u000bmiddle ear mass"
+},
+{
+"name": "Chronic fatigue syndrome\u000bCFS"
+},
+{
+"name": "Chronic liver disease"
+},
+{
+"name": "Chronic obstructive pulmonary disease\u000bCOPD, emphysema"
+},
+{
+"name": "Chronic pain"
+},
+{
+"name": "Cirrhosis\u000bliver failure and scarring"
+},
+{
+"name": "Cluster headache\u000bone-sided headache behind the eye"
+},
+{
+"name": "Coarctation of aorta\u000bnarrowing of the aorta"
+},
+{
+"name": "Cocaine abuse"
+},
+{
+"name": "Cocaine overdose"
+},
+{
+"name": "Colic\u000bprolonged infant crying episodes"
+},
+{
+"name": "Colitis\u000blarge intestine inflammation"
+},
+{
+"name": "Colonic diverticulitis\u000binflammation of pouches in the large intestine"
+},
+{
+"name": "Colon cancer\u000blarge intestine tumor"
+},
+{
+"name": "Common cold\u000bupper respiratory infection"
+},
+{
+"name": "Common spider bite\u000bspider bite"
+},
+{
+"name": "Compartment syndrome\u000bincreased pressure inside muscles"
+},
+{
+"name": "Concussion"
+},
+{
+"name": "Congestive heart failure\u000bCHF"
+},
+{
+"name": "Conjunctivitis\u000bpink eye"
+},
+{
+"name": "Constipation"
+},
+{
+"name": "Contact dermatitis\u000bcontact skin irritation"
+},
+{
+"name": "Poison ivy\u000bpoison oak, poison sumac"
+},
+{
+"name": "Contact urticaria\u000bhives"
+},
+{
+"name": "Contusion\u000bbruise, ecchymosis"
+},
+{
+"name": "Corneal abrasion\u000bscrape on eye"
+},
+{
+"name": "Corneal foreign body\u000bobject in the eye"
+},
+{
+"name": "Coronary artery dissection\u000bheart artery tear"
+},
+{
+"name": "Costochondritis\u000bchest wall inflammation"
+},
+{
+"name": "Cough medicine abuse"
+},
+{
+"name": "Crohn's disease\u000bregional enteritis, Crohn's colitis, intestinal inflammation"
+},
+{
+"name": "Cryptosporidium infection\u000bdiarrheal parasite infection\u000bInfection by Cryptosporidium\u000bCryptosporidiosis infection\u000bInfection by Cryptosporidium parvum"
+},
+{
+"name": "Cushing disease\u000bexcessive pituitary gland hormones"
+},
+{
+"name": "Cutaneous larva migrans\u000bparasitic skin disease"
+},
+{
+"name": "Cystocele\u000bbladder hernia"
+},
+{
+"name": "Cytomegalovirus infection\u000bCMV viral infection"
+},
+{
+"name": "De Quervain's tenosynovitis\u000bhand tendon inflammation"
+},
+{
+"name": "Deep venous thrombosis\u000bDVT, venous blood clot"
+},
+{
+"name": "Dehydration"
+},
+{
+"name": "Delirium tremens\u000b?DTs?, severe alcohol withdrawal"
+},
+{
+"name": "Dementia\u000bdecline in mental ability"
+},
+{
+"name": "Dengue fever\u000btropical mosquito borne illness"
+},
+{
+"name": "Dental abscess\u000btooth infection"
+},
+{
+"name": "Dental eruption\u000bappearance of new tooth"
+},
+{
+"name": "Dentures"
+},
+{
+"name": "Depression\u000bexcessive sadness"
+},
+{
+"name": "Diabetes\u000bhigh blood sugar"
+},
+{
+"name": "Diabetes mellitus type 2\u000belevated blood sugar"
+},
+{
+"name": "Diabetic ketoacidosis\u000bDKA, a complication of poorly controlled diabetes"
+},
+{
+"name": "Diffuse esophageal spasm\u000bpainful contractions of the esophagus"
+},
+{
+"name": "Benadryl\u000bdiphenhydramine overdose"
+},
+{
+"name": "Diphtheria infection\u000bbacterial respiratory infection"
+},
+{
+"name": "Discitis\u000bspinal disk inflammation"
+},
+{
+"name": "Dislocation\u000bjoint out of place"
+},
+{
+"name": "Dissecting aortic aneurysm\u000btearing and dilation of the aorta"
+},
+{
+"name": "Disseminated intravascular coagulation\u000bDIC, abnormality of blood clotting"
+},
+{
+"name": "Unisom overdose\u000bdoxylamine overdose"
+},
+{
+"name": "Dressler syndrome\u000bheart sac inflammation following heart attack or heart surgery"
+},
+{
+"name": "Drug overuse\u000bPrescription Drug Overuse"
+},
+{
+"name": "Drug overdose"
+},
+{
+"name": "Drug reaction"
+},
+{
+"name": "Dry air nasal irritation"
+},
+{
+"name": "Dry socket\u000bpain after tooth removal"
+},
+{
+"name": "Dysfunctional uterine bleeding\u000babnormal vaginal bleeding"
+},
+{
+"name": "E. coli infection\u000bEscherichia coli, bacterial infection"
+},
+{
+"name": "Ear laceration\u000bcut on the ear"
+},
+{
+"name": "Ear swelling"
+},
+{
+"name": "Eclampsia\u000bhypertensive disorder of pregnancy"
+},
+{
+"name": "Ecstasy\u000bMDMA abuse"
+},
+{
+"name": "Ectopic pregnancy\u000btubal pregnancy"
+},
+{
+"name": "Elapid\u000bElapid venom\u000bcobra, coral, mamba venom toxicity"
+},
+{
+"name": "Empyema\u000bcollection of pus in chest"
+},
+{
+"name": "Encephalitis\u000bbrain infection"
+},
+{
+"name": "Endometrial cancer\u000bcancer of the lining of the uterus"
+},
+{
+"name": "Endometriosis\u000buterine tissue outside the uterus"
+},
+{
+"name": "Endometritis\u000binflammation of the uterus"
+},
+{
+"name": "Enlarged lymph nodes\u000blymphadenopathy"
+},
+{
+"name": "Entamoeba histolytica infection\u000bameba infection\u000bInfection due to Entamoeba histolytica"
+},
+{
+"name": "Hypothermia\u000bextreme cold exposure"
+},
+{
+"name": "Hyperthermia\u000bextreme heat exposure"
+},
+{
+"name": "Epidermal cyst"
+},
+{
+"name": "Inflammation of testicular tubes\u000bepididymitis"
+},
+{
+"name": "Epidural abscess\u000bbrain or spine pus collection"
+},
+{
+"name": "Epidural hematoma\u000bbleeding around brain or spine"
+},
+{
+"name": "Epiglottitis\u000bsevere throat inflammation"
+},
+{
+"name": "Nose bleed\u000bepistaxis"
+},
+{
+"name": "Erythrasma\u000bchronic bacterial skin infection"
+},
+{
+"name": "Esophageal achalasia\u000bswallowing disease"
+},
+{
+"name": "Esophageal cancer\u000btumor"
+},
+{
+"name": "Esophageal cyst"
+},
+{
+"name": "Esophageal foreign body"
+},
+{
+"name": "Esophageal rupture\u000btear in esophagus"
+},
+{
+"name": "Esophageal spasm\u000bpainful muscle contraction"
+},
+{
+"name": "Esophageal stricture\u000bnarrowing of the esophagus"
+},
+{
+"name": "Esophageal varices\u000bdilation of esophageal veins"
+},
+{
+"name": "Esophageal web\u000bSchatzki's ring, constriction of esophagus"
+},
+{
+"name": "Esophagitis\u000besophageal inflammation"
+},
+{
+"name": "Essential hypertension\u000bhigh blood pressure"
+},
+{
+"name": "Estrogen withdrawal\u000bfemale hormone"
+},
+{
+"name": "Extremity trauma\u000bleg or arm injury"
+},
+{
+"name": "Eye trauma\u000binjury"
+},
+{
+"name": "Eyelid laceration\u000bskin cut"
+},
+{
+"name": "Eyelid swelling"
+},
+{
+"name": "Facial laceration\u000bskin cut"
+},
+{
+"name": "Facial trauma\u000bfacial injury"
+},
+{
+"name": "Facial swelling"
+},
+{
+"name": "Fallen arches\u000bflat feet, pes planus"
+},
+{
+"name": "False pregnancy"
+},
+{
+"name": "Familial cold urticaria\u000bcold-related hives"
+},
+{
+"name": "Fat embolism\u000bblood clot from fat"
+},
+{
+"name": "Febrile\u000bfever illness"
+},
+{
+"name": "Febrile seizure\u000bconvulsion in child with a fever"
+},
+{
+"name": "Fecal impaction\u000brectal blockage from stool"
+},
+{
+"name": "Femoral artery aneurysm\u000bdilation of leg artery"
+},
+{
+"name": "Femoral hernia\u000bgroin hernia"
+},
+{
+"name": "Fetal alcohol syndrome"
+},
+{
+"name": "Fever\u000belevated temperature"
+},
+{
+"name": "Fibrocystic breasts\u000bbreast lumpiness"
+},
+{
+"name": "Fibroid\u000buterine muscle tumor"
+},
+{
+"name": "Fibromyalgia\u000bchronic pain disorder"
+},
+{
+"name": "Filariasis\u000belephantiasis"
+},
+{
+"name": "Finger laceration\u000bskin cut"
+},
+{
+"name": "Finger pulp infection\u000bfelon"
+},
+{
+"name": "Finger swelling"
+},
+{
+"name": "Foot laceration\u000bskin cut"
+},
+{
+"name": "Foot swelling"
+},
+{
+"name": "Foreign body\u000bobject originating outside the body"
+},
+{
+"name": "Foreign body in the eye"
+},
+{
+"name": "Fracture\u000bbroken bone"
+},
+{
+"name": "Functional disorders\u000bpsychogenic illness"
+},
+{
+"name": "Fungal infections"
+},
+{
+"name": "Bacterial vaginosis\u000bBV, garnerella vaginalis"
+},
+{
+"name": "Gastric ulcer\u000bstomach ulcer"
+},
+{
+"name": "Gastritis\u000bstomach inflammation"
+},
+{
+"name": "Gastroenteritis\u000bintestinal infection"
+},
+{
+"name": "Gastroesophageal reflux\u000bGERD, heartburn"
+},
+{
+"name": "Gastrointestinal bleeding\u000bstomach, intestine bleeding"
+},
+{
+"name": "Genital herpes\u000bHSV type 2 infection"
+},
+{
+"name": "Genital warts\u000bHPV, Human papillomavirus infection"
+},
+{
+"name": "Gestational diabetes\u000bdiabetes during pregnancy"
+},
+{
+"name": "Gestational hypertension\u000bhigh blood pressure in pregnancy"
+},
+{
+"name": "Giardiasis\u000bgiardia infection"
+},
+{
+"name": "Gingivitis\u000binflammation of the gums"
+},
+{
+"name": "Glaucoma\u000belevated eye pressure"
+},
+{
+"name": "Goiter\u000benlarged thyroid"
+},
+{
+"name": "Gout\u000buric acid crystals in the joint causing inflammation"
+},
+{
+"name": "Guillain Barre syndrome\u000bascending muscle weakness"
+},
+{
+"name": "Bunion of big toe\u000bhallux valgus"
+},
+{
+"name": "Hammer toes\u000btoe deformity"
+},
+{
+"name": "Hand laceration\u000bskin cut"
+},
+{
+"name": "Hand swelling"
+},
+{
+"name": "Hand foot and mouth disease\u000bCoxsackie virus"
+},
+{
+"name": "Hantavirus infection\u000brare, serious viral infection"
+},
+{
+"name": "Head injury"
+},
+{
+"name": "Head trauma"
+},
+{
+"name": "Headache"
+},
+{
+"name": "Hearing loss"
+},
+{
+"name": "Heat cramps"
+},
+{
+"name": "Heat exhaustion"
+},
+{
+"name": "Heat rash"
+},
+{
+"name": "Heat stroke"
+},
+{
+"name": "Hematocele\u000bcollection of blood around testicle"
+},
+{
+"name": "Hematoma\u000bcollection of blood"
+},
+{
+"name": "Hemophilia\u000binherited bleeding disorder"
+},
+{
+"name": "Hemoptysis\u000bcoughing blood"
+},
+{
+"name": "Hemorrhage of pregnancy\u000bvaginal bleeding during pregnancy"
+},
+{
+"name": "Hemorrhoid\u000benlarged rectal veins"
+},
+{
+"name": "Hemotympanum\u000bblood behind ear drum"
+},
+{
+"name": "Henoch Sch?nlein purpura\u000bblood vessel inflammation"
+},
+{
+"name": "Hepatic abscess\u000bcollection of pus in the liver"
+},
+{
+"name": "Hepatitis\u000bliver inflammation"
+},
+{
+"name": "Hereditary hemorrhagic telangiectasia\u000bOsler Weber Rendu syndrome"
+},
+{
+"name": "Hernia"
+},
+{
+"name": "Herniated disc\u000bslipped disc, ruptured disc"
+},
+{
+"name": "Herpes simplex infection\u000bviral infection"
+},
+{
+"name": "Herpes stomatitis\u000bviral mouth infection"
+},
+{
+"name": "Herpes vulvovaginitis\u000bviral infection of the vagina\u000bHerpesviral vulvovaginitis"
+},
+{
+"name": "Hiatal hernia\u000bstomach pushes through diaphragm"
+},
+{
+"name": "Hip fracture\u000bbroken hip"
+},
+{
+"name": "Hordeolum\u000bstye of eye"
+},
+{
+"name": "Humerus fracture\u000bbroken upper arm"
+},
+{
+"name": "Hydrocele\u000bfluid collection near the testicle"
+},
+{
+"name": "Hyperemesis gravidarum\u000bsevere vomiting in pregnancy"
+},
+{
+"name": "Hyperkalemia\u000belevated potassium level"
+},
+{
+"name": "Hypertension\u000bhigh blood pressure"
+},
+{
+"name": "Hypertensive emergency\u000bseverely high blood pressure"
+},
+{
+"name": "Hyperthyroidism\u000belevated thyroid hormone"
+},
+{
+"name": "Hypertrophic cardiomyopathy\u000bthickened heart muscle"
+},
+{
+"name": "Hyperventilation\u000brapid breathing"
+},
+{
+"name": "Hyphema\u000btraumatic blood in eye"
+},
+{
+"name": "Hypocalcemia\u000blow blood calcium"
+},
+{
+"name": "Hypoglycemia\u000blow blood sugar"
+},
+{
+"name": "Hypokalemia\u000blow blood potassium"
+},
+{
+"name": "Hypokalemic periodic paralysis\u000binherited muscle weakness and low potassium"
+},
+{
+"name": "Hyponatremia\u000blow blood sodium"
+},
+{
+"name": "Hypotension\u000blow blood pressure"
+},
+{
+"name": "Hypothyroidism\u000blow thyroid hormone"
+},
+{
+"name": "Hypoxia\u000black of oxygen"
+},
+{
+"name": "Nonsteroidal anti-inflammatory drug overdose\u000bMotrin, Advil"
+},
+{
+"name": "Impacted tooth\u000btooth that doesn't erupt"
+},
+{
+"name": "Impingement syndrome of shoulder\u000bbone rubs again tendon, bursa"
+},
+{
+"name": "Infection"
+},
+{
+"name": "Infectious mononucleosis\u000bEpstein Barr virus, \"Mono\""
+},
+{
+"name": "Inflammatory conditions"
+},
+{
+"name": "Influenza\u000bseasonal flu"
+},
+{
+"name": "Inguinal hernia\u000bgroin hernia"
+},
+{
+"name": "Inhalants abuse\u000bhuffing"
+},
+{
+"name": "Insulin overdose"
+},
+{
+"name": "Interstitial cystitis\u000bbladder inflammation"
+},
+{
+"name": "Intestinal ischemia\u000bdecreased intestinal blood flow"
+},
+{
+"name": "Intestinal volvulus\u000btwisting of intestine"
+},
+{
+"name": "Intracranial hemorrhage\u000bbleeding in brain"
+},
+{
+"name": "Intrahepatic cholestasis of pregnancy\u000bliver disorder in pregnancy"
+},
+{
+"name": "Intravenous drug abuse\u000bIVDA"
+},
+{
+"name": "Intussusception\u000btelescoping intestine"
+},
+{
+"name": "Iron overdose"
+},
+{
+"name": "Irritable bowel syndrome\u000bIBS, chronic intestinal pain and cramping"
+},
+{
+"name": "Jet lag"
+},
+{
+"name": "Kaposi Sarcoma\u000btype of cancer"
+},
+{
+"name": "Kawasaki disease\u000bpediatric blood vessel disease"
+},
+{
+"name": "Keratitis\u000binflammation of cornea"
+},
+{
+"name": "Kidney cancer\u000btumor"
+},
+{
+"name": "Knee laceration\u000bskin cut"
+},
+{
+"name": "Knee swelling"
+},
+{
+"name": "Labyrinthitis\u000bdizziness and vertigo"
+},
+{
+"name": "Laceration\u000bskin cut"
+},
+{
+"name": "Bowel obstruction\u000bintestinal blockage"
+},
+{
+"name": "Laryngeal carcinoma\u000bthroat cancer"
+},
+{
+"name": "Laryngitis\u000bvoice box inflammation"
+},
+{
+"name": "Tennis elbow\u000blateral epicondylitis"
+},
+{
+"name": "Laxative abuse"
+},
+{
+"name": "Lead overdose\u000blead poisoning"
+},
+{
+"name": "Lead poisoning\u000btoxicity"
+},
+{
+"name": "Leg laceration\u000bskin cut"
+},
+{
+"name": "Leg swelling\u000bleg edema"
+},
+{
+"name": "Legg Calve Perthes disease\u000bchildhood hip condition"
+},
+{
+"name": "Legionellosis\u000bLegionnaires' disease"
+},
+{
+"name": "Leishmaniasis\u000bparasitic infection, kala azar"
+},
+{
+"name": "Leptospirosis\u000bbacterial infection"
+},
+{
+"name": "Leukemia\u000bblood cell cancer"
+},
+{
+"name": "Lichen planus\u000bchronic skin inflammation"
+},
+{
+"name": "Ligament sprain\u000bconnection between two bones"
+},
+{
+"name": "Ligament tear\u000bconnection between two bones"
+},
+{
+"name": "Limb ischemia\u000bdecreased blood flow"
+},
+{
+"name": "Lip laceration\u000bskin cut"
+},
+{
+"name": "Lip swelling"
+},
+{
+"name": "Lipoma\u000bbenign fatty tumor"
+},
+{
+"name": "Liver abscess\u000bcollection of pus"
+},
+{
+"name": "Liver cancer\u000btumor"
+},
+{
+"name": "Low blood pressure\u000bhypotension"
+},
+{
+"name": "Low platelets\u000bthrombocytopenia"
+},
+{
+"name": "Ludwig?s angina\u000bsevere infection in the floor of the mouth and neck"
+},
+{
+"name": "Lung abscess\u000bcollection of pus"
+},
+{
+"name": "Lung cancer\u000btumor"
+},
+{
+"name": "Lupus\u000bsystemic lupus erythematosus, SLE"
+},
+{
+"name": "Lyme disease\u000bbacterial infection from ticks"
+},
+{
+"name": "Lymphangitis\u000blymph tissue inflammation"
+},
+{
+"name": "Magic mushroom ingestion\u000bpsilocybin"
+},
+{
+"name": "Major depressive disorder\u000bsevere depression"
+},
+{
+"name": "Malabsorption syndrome\u000babnormal intestinal digestion"
+},
+{
+"name": "Malaria\u000bmosquito transmitted illness"
+},
+{
+"name": "Malignant hyperthermia\u000brare temperature abnormality"
+},
+{
+"name": "Mallet finger\u000bfinger tendon rupture"
+},
+{
+"name": "Mallory Weiss syndrome\u000besophageal tear"
+},
+{
+"name": "Malnutrition"
+},
+{
+"name": "Marijuana use"
+},
+{
+"name": "Mastitis\u000bbreast infection inflammation"
+},
+{
+"name": "Maxillary sinus carcinoma\u000bsinus cancer"
+},
+{
+"name": "Measles\u000bviral disease with typical rash"
+},
+{
+"name": "Meckel's diverticulum\u000bbulge in small intestine"
+},
+{
+"name": "Mediastinitis\u000binner chest inflammation"
+},
+{
+"name": "Meniere's disease\u000bdizziness and vertigo"
+},
+{
+"name": "Meningitis\u000bspinal fluid infection"
+},
+{
+"name": "Meniscus injury\u000bknee cartilage injury"
+},
+{
+"name": "Menopause\u000bend of menstruation and fertility"
+},
+{
+"name": "Metastatic neoplasm\u000bcancer spread"
+},
+{
+"name": "Methamphetamine abuse"
+},
+{
+"name": "Methyl alcohol intoxication\u000bmethanol"
+},
+{
+"name": "Migraine\u000btype of headache"
+},
+{
+"name": "Miscarriage"
+},
+{
+"name": "Mitral valve prolapse\u000babnormal heart valve"
+},
+{
+"name": "Mittelschmerz\u000bovulation pain"
+},
+{
+"name": "Molar pregnancy\u000bgestational trophoblastic disease, pregnancy-related tumor"
+},
+{
+"name": "Mononucleosis\u000bcommon viral illness"
+},
+{
+"name": "Mosquito bite"
+},
+{
+"name": "Motion sickness"
+},
+{
+"name": "Motor neuron disease\u000bprogressive nerve disorder"
+},
+{
+"name": "Mouth laceration\u000bmouth cut"
+},
+{
+"name": "Mouth swelling"
+},
+{
+"name": "Mouth trauma\u000binjury"
+},
+{
+"name": "Multiple pregnancy\u000btwins, triplets, etc"
+},
+{
+"name": "Multiple sclerosis\u000bMS"
+},
+{
+"name": "Mumps\u000bviral infection involving salivary glands"
+},
+{
+"name": "Munchausen syndrome\u000bfabricated illness"
+},
+{
+"name": "Munchausen syndrome by proxy\u000bfabricated illness in a dependent"
+},
+{
+"name": "Myasthenia gravis\u000bautoimmune disease of the nerves, muscles"
+},
+{
+"name": "Mycoplasma genitalium\u000bsexually transmitted disease"
+},
+{
+"name": "Myelodysplastic syndrome\u000bbone marrow failure"
+},
+{
+"name": "Myocardial infarction\u000bheart attack"
+},
+{
+"name": "Myocarditis\u000bheart muscle inflammation"
+},
+{
+"name": "Myopathy\u000bmuscle disease"
+},
+{
+"name": "Myositis\u000bmuscle inflammation or infection"
+},
+{
+"name": "Nail avulsion\u000btraumatic removal of nail"
+},
+{
+"name": "Nail bruise\u000bsubungual hematoma"
+},
+{
+"name": "Nail contusion\u000bswelling of finger and nail"
+},
+{
+"name": "Nail laceration\u000bnail bed cut"
+},
+{
+"name": "Narcolepsy\u000buncontrollable sleeping"
+},
+{
+"name": "Narcotic\u000bmorphine, heroin abuse"
+},
+{
+"name": "Narcotic\u000bmorphine, heroin overdose"
+},
+{
+"name": "Nasal cancer\u000btumor"
+},
+{
+"name": "Nasal fracture\u000bbroken nose"
+},
+{
+"name": "Nasal polyps\u000bgrowths"
+},
+{
+"name": "Nasal trauma\u000bnose injury"
+},
+{
+"name": "Nasopharyngeal carcinoma\u000btumor"
+},
+{
+"name": "Neck trauma\u000binjury"
+},
+{
+"name": "Necrotizing fasciitis\u000blife-threatening infection"
+},
+{
+"name": "Neisseria gonorrhea infection\u000bsexually transmitted disease"
+},
+{
+"name": "Neisseria meningitidis infection\u000bNeisseria meningitidis\u000bmeningococcus, serious bacterial illness"
+},
+{
+"name": "Kidney stone\u000bnephrolithiasis"
+},
+{
+"name": "Neurogenic bladder\u000bbladder paralysis"
+},
+{
+"name": "Non venomous snake bite"
+},
+{
+"name": "Normal menstruation"
+},
+{
+"name": "Norovirus infection\u000bviral diarrhea, Norwalk virus"
+},
+{
+"name": "Nursemaid's elbow\u000bradial head subluxation"
+},
+{
+"name": "Obsessive compulsive disorder\u000bOCD, anxiety disorder"
+},
+{
+"name": "Onchocerciasis\u000briver blindness"
+},
+{
+"name": "Ophthalmoplegia\u000beye muscle weakness"
+},
+{
+"name": "Optic neuritis\u000boptic nerve inflammation"
+},
+{
+"name": "Oral candidiasis\u000bthrush, oral yeast"
+},
+{
+"name": "Oral ulcers\u000bmouth ulcers"
+},
+{
+"name": "Orbital cellulitis\u000bsoft tissue eye infection"
+},
+{
+"name": "Orbital fracture\u000bbroken bone near the eye"
+},
+{
+"name": "Orbital mass\u000bgrowth near the eye"
+},
+{
+"name": "Orchitis\u000binflammation of the testicles"
+},
+{
+"name": "Mouth cancer\u000boropharyngeal cancer"
+},
+{
+"name": "Osteoarthritis\u000bbone inflammation"
+},
+{
+"name": "Osteochondritis dissecans\u000bjoint disorder"
+},
+{
+"name": "Osteomyelitis\u000bbone infection"
+},
+{
+"name": "Ear infection, outer\u000botitis externa"
+},
+{
+"name": "Ear infection, middle ear\u000botitis media"
+},
+{
+"name": "Ototoxicity\u000bear toxicity"
+},
+{
+"name": "Ovarian cancer\u000bfemale organ cancer"
+},
+{
+"name": "Ovarian cyst\u000bfemale organ fluid collection"
+},
+{
+"name": "Ovarian torsion\u000btwisting of the ovary"
+},
+{
+"name": "Overdose"
+},
+{
+"name": "Overuse syndrome\u000binjury from repetitive activity"
+},
+{
+"name": "Paget disease of the nipple\u000brare breast cancer"
+},
+{
+"name": "Pancoast syndrome\u000bapical lung tumor"
+},
+{
+"name": "Pancreatic cancer\u000btumor"
+},
+{
+"name": "Pancreatitis\u000bpancreas inflammation"
+},
+{
+"name": "Pancreas inflammation\u000bpancreatitis, chronic"
+},
+{
+"name": "Panic disorder"
+},
+{
+"name": "Paralytic Ileus\u000bintestinal paralysis"
+},
+{
+"name": "Parasite infection"
+},
+{
+"name": "Parkinson's disease\u000bmovement disorder"
+},
+{
+"name": "Paronychia\u000binfection around the nail"
+},
+{
+"name": "Parotitis\u000bsalivary gland inflammation"
+},
+{
+"name": "Patellar dislocation\u000bknee cap dislocation"
+},
+{
+"name": "Patellar\u000bknee cap tendon rupture"
+},
+{
+"name": "Pelvic inflammatory disease\u000bPID, female reproductive organ infection"
+},
+{
+"name": "Penis carcinoma\u000btumor"
+},
+{
+"name": "Perforated septum\u000bhole in skin between nostrils"
+},
+{
+"name": "Pericarditis\u000bheart sac inflammation"
+},
+{
+"name": "Periodontitis\u000bgum inflammation"
+},
+{
+"name": "Periorbital cellulitis\u000binfection around eye"
+},
+{
+"name": "Peripheral nerve transection\u000bnerve injury"
+},
+{
+"name": "Peripheral neuropathy\u000bnerve damage"
+},
+{
+"name": "Peripheral vascular disease\u000bblocked blood vessels"
+},
+{
+"name": "Peritonitis\u000babdominal cavity inflammation"
+},
+{
+"name": "Peritonsillar abscess\u000bcollection of pus around tonsils"
+},
+{
+"name": "Personality disorder\u000bunhealthy patterns of thinking and behavior"
+},
+{
+"name": "Pesticide poisoning\u000borganophosphate poisoning"
+},
+{
+"name": "Pharyngeal pouch\u000bZenker's diverticulum, weakening of the esophageal wall"
+},
+{
+"name": "Pharyngitis\u000bthroat infection"
+},
+{
+"name": "Pheochromocytoma\u000badrenal gland tumor"
+},
+{
+"name": "Phobias\u000birrational fear"
+},
+{
+"name": "Pickwickian syndrome\u000bsevere obesity"
+},
+{
+"name": "Pituitary tumor"
+},
+{
+"name": "Pityriasis rosea\u000binflammatory skin rash"
+},
+{
+"name": "Placenta previa\u000bplacenta covers cervix"
+},
+{
+"name": "Placental abruption\u000bplacenta separation"
+},
+{
+"name": "Plague\u000bbubonic plague, bacteria yersinia infection"
+},
+{
+"name": "Plantar fasciitis\u000binflammation of tissue at the bottom of the foot"
+},
+{
+"name": "Plantar wart\u000bhuman papilloma virus infection, foot warts"
+},
+{
+"name": "Pleural effusion\u000babnormal chest fluid"
+},
+{
+"name": "Pleuritis\u000binflammation of the lung's lining, pleurisy"
+},
+{
+"name": "Pneumonia\u000blung infection"
+},
+{
+"name": "Pneumothorax\u000bcollapse of lung"
+},
+{
+"name": "Poisoning"
+},
+{
+"name": "Poliomyelitis\u000bpolio"
+},
+{
+"name": "Polycystic kidney disease\u000binherited kidney disorder"
+},
+{
+"name": "Polycystic ovarian syndrome\u000bPCOS, female hormonal disorder"
+},
+{
+"name": "Polycythemia vera\u000bincreased number of red blood cells"
+},
+{
+"name": "Polyphagia\u000bovereating"
+},
+{
+"name": "Post concussive syndrome\u000bsymptoms after a concussion"
+},
+{
+"name": "Post nasal drip"
+},
+{
+"name": "Post-traumatic stress disorder\u000bPTSD"
+},
+{
+"name": "Posterior inferior cerebellar artery syndrome\u000bstroke syndrome"
+},
+{
+"name": "Postural hypotension\u000blow blood pressure after standing"
+},
+{
+"name": "Pregnancy"
+},
+{
+"name": "Premenstrual syndrome\u000bPMS"
+},
+{
+"name": "Prescription drug abuse"
+},
+{
+"name": "Preseptal hematoma\u000bblood clot in the nose"
+},
+{
+"name": "Priapism\u000bpersistent erection"
+},
+{
+"name": "Primary affective disorder\u000bdepression"
+},
+{
+"name": "Insomnia\u000bdifficulty sleeping"
+},
+{
+"name": "Primary sclerosing cholangitis\u000bbile duct disease"
+},
+{
+"name": "Primary dysmenorrhea\u000bpainful menstruation"
+},
+{
+"name": "Prinzmetal angina\u000bheart artery spasm"
+},
+{
+"name": "Prostate cancer\u000bmale anatomy cancer"
+},
+{
+"name": "Prostatitis\u000bprostate inflammation"
+},
+{
+"name": "Pruritus ani\u000banal itching"
+},
+{
+"name": "Pseudogout\u000bcalcium deposit arthritis"
+},
+{
+"name": "Puerperal depression\u000bdepression after giving birth"
+},
+{
+"name": "Puerperal psychosis\u000bloss of contact with reality after birth"
+},
+{
+"name": "Pulmonary edema\u000bfluid build-up in the lungs"
+},
+{
+"name": "Pulmonary embolism\u000bblood clot in the lungs"
+},
+{
+"name": "Pulmonary fibrosis\u000blung scarring"
+},
+{
+"name": "Pulmonary hypertension\u000bhigh blood pressure in the lungs"
+},
+{
+"name": "Pulpitis\u000bdental root inflammation"
+},
+{
+"name": "Puncture wound"
+},
+{
+"name": "Puncture wound of ankle"
+},
+{
+"name": "Puncture wound of arm"
+},
+{
+"name": "Puncture wound of ear"
+},
+{
+"name": "Puncture wound of eyelid"
+},
+{
+"name": "Puncture wound of face"
+},
+{
+"name": "Puncture wound of finger"
+},
+{
+"name": "Puncture wound of foot"
+},
+{
+"name": "Puncture wound of hand"
+},
+{
+"name": "Puncture wound of knee"
+},
+{
+"name": "Puncture wound, leg\u000bPuncture wound of leg"
+},
+{
+"name": "Puncture wound of lip"
+},
+{
+"name": "Puncture wound of mouth"
+},
+{
+"name": "Puncture wound of scalp"
+},
+{
+"name": "Puncture wound of skin"
+},
+{
+"name": "Puncture wound of toe"
+},
+{
+"name": "Pyelonephritis\u000bkidney infection"
+},
+{
+"name": "Quaternary syphilis\u000blate stage syphilis"
+},
+{
+"name": "Radial head fracture\u000bbroken elbow bone"
+},
+{
+"name": "Radiator fluid\u000bethylene glycol poisoning"
+},
+{
+"name": "Increased pressure in the skull\u000braised intracranial pressure"
+},
+{
+"name": "Ramsay Hunt syndrome\u000bviral infection causing facial weakness"
+},
+{
+"name": "Rectal abscess\u000bcollection of pus in the rectum"
+},
+{
+"name": "Rectal cancer\u000btumor"
+},
+{
+"name": "Rectal impaction\u000bcollection of pus in the rectum\u000bFecal impaction of rectum"
+},
+{
+"name": "Rectal prolapse\u000brectal protrusion"
+},
+{
+"name": "Rectal ulcer"
+},
+{
+"name": "Reiter syndrome\u000btype of joint inflammation"
+},
+{
+"name": "Renal arteriovenous malformation\u000bAVM, blood vessel abnormality of the kidney"
+},
+{
+"name": "Renal artery stenosis\u000bkidney artery narrowing"
+},
+{
+"name": "Renal failure, acute\u000bsudden kidney failure"
+},
+{
+"name": "Renal failure, chronic\u000bongoing kidney failure"
+},
+{
+"name": "Renal infarct\u000bkidney damage from an area of blocked blood flow"
+},
+{
+"name": "Renal trauma\u000bkidney trauma"
+},
+{
+"name": "Renal vein thrombosis\u000bkidney vein clot"
+},
+{
+"name": "Respiratory failure\u000bbreathing failure, ARDS"
+},
+{
+"name": "Restless legs syndrome\u000bnervous system disorder"
+},
+{
+"name": "Retroperitoneal hemorrhage\u000bflank bleeding"
+},
+{
+"name": "Retropharyngeal abscess\u000bthroat abscess"
+},
+{
+"name": "Rhabdomyolysis\u000bsevere muscle breakdown"
+},
+{
+"name": "Rheumatoid arthritis\u000btype of chronic joint inflammation"
+},
+{
+"name": "Rhinosporidiosis\u000bfungal nasal infection"
+},
+{
+"name": "Rhinovirus infection\u000bcommon cold"
+},
+{
+"name": "Rib fracture\u000bbroken bone"
+},
+{
+"name": "Rickettsial infections\u000btype of bacterial infection"
+},
+{
+"name": "Rotator cuff syndrome\u000bshoulder injury"
+},
+{
+"name": "Rotavirus infection\u000bintestinal viral infection"
+},
+{
+"name": "Rubbing\u000bisopropyl alcohol overdose"
+},
+{
+"name": "Salmonella infection\u000bcommon bacterial intestinal infection"
+},
+{
+"name": "Severe Acute Respiratory Syndrome\u000bSARS, serious viral pneumonia"
+},
+{
+"name": "Scalp laceration\u000bscalp cut"
+},
+{
+"name": "Scalp swelling"
+},
+{
+"name": "Scarlet fever\u000bpost strep inflammation"
+},
+{
+"name": "Schistosomiasis\u000bparasite infection"
+},
+{
+"name": "Schizoaffective disorder\u000bfeatures of schizophrenia and mood disorder"
+},
+{
+"name": "Schizophrenia\u000bchronic impaired reality perception"
+},
+{
+"name": "Sciatica\u000blower back nerve irritation"
+},
+{
+"name": "Sclerosing cholangitis\u000bprogressive bile duct disease "
+},
+{
+"name": "Scoliosis\u000bcrooked spine"
+},
+{
+"name": "Scorpion sting"
+},
+{
+"name": "Scrotal hematoma\u000bcollection of blood in skin around testicles"
+},
+{
+"name": "Seasonal affective disorder\u000bintermittent seasonal depression"
+},
+{
+"name": "Sebaceous cyst\u000bsac under the skin"
+},
+{
+"name": "Secondary dysmenorrhea\u000bpainful menstruation"
+},
+{
+"name": "Self-inflicted injury"
+},
+{
+"name": "Sepsis\u000bserious blood infection"
+},
+{
+"name": "Septal perforation\u000bhole in the skin between nostrils"
+},
+{
+"name": "Septic arthritis\u000bjoint infection"
+},
+{
+"name": "Septic hip\u000binfected hip joint"
+},
+{
+"name": "Septic knee joint\u000binfected knee joint"
+},
+{
+"name": "Septic shock\u000blow blood pressure from serious blood infection"
+},
+{
+"name": "Serotonin syndrome\u000bsevere medication reaction"
+},
+{
+"name": "Serum sickness\u000babnormal immune system response"
+},
+{
+"name": "Sexually transmitted disease\u000bSTD"
+},
+{
+"name": "Shigellosis\u000bbacterial intestinal infection"
+},
+{
+"name": "Shingles\u000bherpes zoster"
+},
+{
+"name": "Shock\u000bsevere low blood pressure"
+},
+{
+"name": "Shoulder joint dislocation\u000bdislocated shoulder"
+},
+{
+"name": "Sialolithiasis\u000bsalivary gland stone"
+},
+{
+"name": "Sickle cell crisis\u000bcomplication of sickle cell disease"
+},
+{
+"name": "Sickle cell disease\u000bdisease of red blood cells"
+},
+{
+"name": "Sinusitis\u000bsinus infection"
+},
+{
+"name": "Sjogren's syndrome\u000bdry eyes and mouth"
+},
+{
+"name": "Skin abscess\u000bcollection of pus"
+},
+{
+"name": "Skin laceration\u000bcut skin"
+},
+{
+"name": "Skin swelling"
+},
+{
+"name": "Skull fracture\u000bbroken bone"
+},
+{
+"name": "Slipped capital femoral epiphysis\u000badolescent hip disorder"
+},
+{
+"name": "Small bowel lymphoma\u000bintestinal lymph node cancer"
+},
+{
+"name": "Smallpox\u000bVariola virus infection"
+},
+{
+"name": "Smoke inhalation"
+},
+{
+"name": "Smoking\u000btobacco use disorder"
+},
+{
+"name": "Social anxiety disorder\u000bsocial phobia"
+},
+{
+"name": "Spermatocele\u000bsperm-filled epididymal cyst"
+},
+{
+"name": "Insect bite"
+},
+{
+"name": "Spinal abscess\u000bcollection of spinal pus"
+},
+{
+"name": "Spinal cord injury, acute"
+},
+{
+"name": "Splenic infarction\u000bdeath of spleen"
+},
+{
+"name": "Spondylolisthesis\u000bslipped back bone"
+},
+{
+"name": "Sprain\u000bstretched, torn ligament"
+},
+{
+"name": "Squamous cell cancer\u000bcommon skin cancer"
+},
+{
+"name": "Steroid abuse"
+},
+{
+"name": "Steroid use"
+},
+{
+"name": "Steven Johnson syndrome\u000brare, serious skin disorder"
+},
+{
+"name": "Muscle strain\u000bpulled muscle"
+},
+{
+"name": "Strangulation of genitalia\u000bconstriction of genital blood supply"
+},
+{
+"name": "Streptococcus infection\u000bstrep throat bacteria"
+},
+{
+"name": "Stress"
+},
+{
+"name": "Stress headache\u000btension headache"
+},
+{
+"name": "Stress incontinence\u000bunintentional urination with cough or sneeze"
+},
+{
+"name": "Subarachnoid hemorrhage\u000bbrain bleeding"
+},
+{
+"name": "Subdural hematoma\u000bbleeding on brain"
+},
+{
+"name": "Substance abuse"
+},
+{
+"name": "Subungual hematoma\u000bblood under nail"
+},
+{
+"name": "Suicide"
+},
+{
+"name": "Supracondylar fracture\u000belbow fracture"
+},
+{
+"name": "Swimmer's itch\u000bcercarial dermatitis"
+},
+{
+"name": "Symptomatic dermatographism\u000bexaggerated skin response to pressure"
+},
+{
+"name": "Syphilis\u000btreponema pallidum"
+},
+{
+"name": "Systemic sclerosis\u000bscleroderma, progressive soft tissue hardening"
+},
+{
+"name": "Tarantula bite\u000bTarantula Venoms"
+},
+{
+"name": "Tarsal tunnel syndrome\u000bfoot nerve damage"
+},
+{
+"name": "Temporal arteritis\u000binflamed scalp artery"
+},
+{
+"name": "Temporal lobe epilepsy\u000bnon-convulsive seizure"
+},
+{
+"name": "Temporomandibular joint syndrome\u000bTMJ, jaw joint pain"
+},
+{
+"name": "Tendonitis\u000btendon inflammation"
+},
+{
+"name": "Tenosynovitis\u000btendon sheath inflammation"
+},
+{
+"name": "Tension pneumothorax\u000bdangerous lung collapse"
+},
+{
+"name": "Testicular cancer\u000btumor"
+},
+{
+"name": "Testicular torsion\u000btwisting of testicle"
+},
+{
+"name": "Third cranial nerve disorder\u000bdisorder of eye movement"
+},
+{
+"name": "Thoracic outlet syndrome\u000bnerve, blood vessel compression"
+},
+{
+"name": "Thrombocytopenia\u000blow platelet count"
+},
+{
+"name": "Thyroglossal duct cyst\u000bneck cyst"
+},
+{
+"name": "Thyroiditis\u000bthyroid inflammation"
+},
+{
+"name": "Tick paralysis\u000btoxin from ticks"
+},
+{
+"name": "Tick borne encephalitis\u000bbrain infection"
+},
+{
+"name": "Tinea\u000bfungal skin infection"
+},
+{
+"name": "laceration of toe\u000bcut skin"
+},
+{
+"name": "Toe swelling"
+},
+{
+"name": "Tongue cancer\u000btumor"
+},
+{
+"name": "Tonsillar cancer\u000btumor tongue"
+},
+{
+"name": "Tonsillitis\u000btonsil infection"
+},
+{
+"name": "Toothache"
+},
+{
+"name": "Torticollis, spasmodic\u000bneck muscle spasm"
+},
+{
+"name": "Preeclampsia\u000btoxemia of pregnancy"
+},
+{
+"name": "Toxic shock syndrome\u000blife-threatening bacterial infection complication"
+},
+{
+"name": "Toxoplasma infection\u000bToxoplasmosis\u000bparasite infection"
+},
+{
+"name": "Transient ischemic attack\u000bTIA, reversible stroke"
+},
+{
+"name": "Transverse myelitis\u000bspinal cord inflammation"
+},
+{
+"name": "Trauma"
+},
+{
+"name": "Traumatic nerve injury"
+},
+{
+"name": "Trichinella spiralis infection\u000btrichinosis, parasitic infection from undercooked pork"
+},
+{
+"name": "Trichomonas vaginalis infection\u000bvaginal infection"
+},
+{
+"name": "Trigeminal neuralgia\u000bfacial nerve pain"
+},
+{
+"name": "Tuberculosis infection\u000bTB"
+},
+{
+"name": "Tubo ovarian abscess\u000bpelvic abscess"
+},
+{
+"name": "Ear drum rupture\u000btympanic membrane rupture"
+},
+{
+"name": "Typhoid fever\u000bsalmonella typhi infection from contaminated food or water"
+},
+{
+"name": "Ulcerative colitis\u000blarge intestine inflammation"
+},
+{
+"name": "Unstable angina\u000bpre heart attack chest pain"
+},
+{
+"name": "Upper respiratory tract infection\u000bURI, common cold"
+},
+{
+"name": "Ureaplasma urealyticum infection\u000bgenital infection"
+},
+{
+"name": "Urethritis\u000binfection of urethra"
+},
+{
+"name": "Bladder infection\u000bcystitis, UTI, urinary tract infection"
+},
+{
+"name": "Urinary tract malformation"
+},
+{
+"name": "Urine retention\u000binability to urinate"
+},
+{
+"name": "Urticaria\u000bhives"
+},
+{
+"name": "Uterine prolapse\u000buterine vaginal protrusion"
+},
+{
+"name": "Uterine rupture\u000buterine tear during childbirth"
+},
+{
+"name": "Uveitis\u000biritis, eye inflammation"
+},
+{
+"name": "Vaccination"
+},
+{
+"name": "Vaginal atrophy\u000batrophic vaginitis"
+},
+{
+"name": "Vaginal cancer\u000btumor"
+},
+{
+"name": "Vaginal foreign body"
+},
+{
+"name": "Vaginitis\u000bvaginal infection inflammation"
+},
+{
+"name": "Varicocele\u000btesticular vein enlargement"
+},
+{
+"name": "Blood vessel headache\u000bfamilial basilar artery migraine headache"
+},
+{
+"name": "Vascular insufficiency due to peripheral artery disease\u000bPAD, claudication, inadequate blood flow"
+},
+{
+"name": "Vasculitis\u000binflammation of the arteries"
+},
+{
+"name": "Vasovagal syncope\u000bfainting"
+},
+{
+"name": "Vertebral artery dissection\u000bneck artery tear"
+},
+{
+"name": "Vertebral fracture\u000bbroken back or neck bone"
+},
+{
+"name": "Vertebral- basilar artery insufficiency\u000binadequate blood flow to the back of the brain\u000bvertebro-basilar insufficiency"
+},
+{
+"name": "Vertebral-basilar stroke\u000bstroke in the back of the brain\u000bVertebro basilar insufficiency"
+},
+{
+"name": "Vertigo\u000bspinning sensation"
+},
+{
+"name": "Vesicovaginal fistula\u000bconnection between the bladder and vagina"
+},
+{
+"name": "Vestibular neuronitis\u000blabyrinthitis, vertigo"
+},
+{
+"name": "Vibrio parahaemolyticus infection\u000bbacterial infection from shellfish"
+},
+{
+"name": "Rattlesnake\u000bpit viper bite"
+},
+{
+"name": "Viral hemorrhagic fevers\u000bEbola, Lassa"
+},
+{
+"name": "Viral infections"
+},
+{
+"name": "Vitiligo\u000bloss of skin pigment"
+},
+{
+"name": "Vocal cord nodule\u000bgrowth on the vocal cords"
+},
+{
+"name": "Vocal cord paralysis\u000bvoice box weakness"
+},
+{
+"name": "Volvulus\u000btwisted intestine"
+},
+{
+"name": "Vulvar squamous cell carcinoma\u000bskin cancer on female genitalia"
+},
+{
+"name": "Waldenstr?m macroglobulinemia\u000bblood cell disease"
+},
+{
+"name": "Warfarin\u000bCoumadin, Jantoven overdose"
+},
+{
+"name": "Warfarin\u000bCoumadin use"
+},
+{
+"name": "Wegener's granulomatosis\u000bgranulomatosis with polyangiitis,  blood vessel disease"
+},
+{
+"name": "West Nile virus infection\u000bmosquito-transmitted illness"
+},
+{
+"name": "Whiplash injury\u000bneck injury"
+},
+{
+"name": "White coat hypertension\u000belevated blood pressure at doctor's office"
+},
+{
+"name": "Whooping cough\u000bpertussis"
+},
+{
+"name": "Windshield wiper fluid\u000bMethanol poisoning"
+},
+{
+"name": "Wolff Parkinson White syndrome\u000bWPW, additional electrical pathway in the heart"
+},
+{
+"name": "Yellow fever\u000bviral hemorrhagic fever"
+},
+{
+"name": "Zenker's diverticulum\u000bpharyngeal pouch, weakening of the esophageal wall"
+},
+{
+"name": "Seizure\u000babnormal brain electrical activity"
+},
+{
+"name": "Pilonidal cyst\u000bfluid filled sac on tailbone"
+},
+{
+"name": "Essential tremor\u000babnormal rhythmic shaking"
+},
+{
+"name": "Lymphoma\u000blymph node cancer"
+},
+{
+"name": "Osgood Schlatter disease\u000bpainful shinbone inflammation"
+},
+{
+"name": "Nasal foreign body\u000bunnatural object in the nose"
+},
+{
+"name": "Respiratory syncytial virus\u000bRSV, pediatric respiratory infection"
+},
+{
+"name": "Hodgkin's disease\u000bcancer of the lymph system"
+},
+{
+"name": "Autism spectrum disorder\u000bASD"
+},
+{
+"name": "Polymyalgia rheumatica\u000bPMR, muscle and joint disorder"
+},
+{
+"name": "Swine Flu\u000bH1N1 Influenza"
+},
+{
+"name": "Fifth disease\u000berythema infectiosum, viral illness"
+},
+{
+"name": "Sagittal sinus thrombosis\u000bvenous blood clot in the brain"
+},
+{
+"name": "Cervical spine stenosis\u000bnarrowing of spinal canal"
+},
+{
+"name": "Cervical myelopathy\u000bspinal cord compression"
+},
+{
+"name": "Spinal cord tumor"
+},
+{
+"name": "Brachial plexus injury\u000bshoulder nerve injury"
+},
+{
+"name": "Brain arteriovenous malformation\u000bblood vessel abnormality in the brain, AVM\u000bArteriovenous malformation of brain"
+},
+{
+"name": "Carotid artery stenosis\u000bneck artery narrowing"
+},
+{
+"name": "Meningioma\u000bbrain tumor"
+},
+{
+"name": "Astrocytoma\u000bbrain tumor"
+},
+{
+"name": "Hydrocephalus\u000bbrain fluid build-up"
+},
+{
+"name": "Central cord syndrome\u000btraumatic spine injury"
+},
+{
+"name": "Cerebral aneurysm\u000bbrain artery dilation"
+},
+{
+"name": "Pseudotumor cerebri\u000bincreased pressure in the skull"
+},
+{
+"name": "HIV AIDS\u000bHuman Immunodeficiency Virus, Acquired Immune Deficiency Syndrome\u000bHuman immunodeficiency virus [HIV] disease"
+},
+{
+"name": "Endocarditis\u000bheart valve infection"
+},
+{
+"name": "Acne\u000bpimples"
+},
+{
+"name": "Attention deficit hyperactivity disorder\u000bADHD"
+},
+{
+"name": "Allergic conjunctivitis\u000ballergic reaction in the eye"
+},
+{
+"name": "Teeth grinding\u000bbruxism"
+},
+{
+"name": "Chemical burn"
+},
+{
+"name": "Chicken pox\u000bvaricella virus"
+},
+{
+"name": "Cradle cap\u000binfant scalp rash"
+},
+{
+"name": "Croup\u000bupper airway inflammation"
+},
+{
+"name": "Dyslexia\u000breading disorder"
+},
+{
+"name": "Psoriasis\u000bscaly skin disease"
+},
+{
+"name": "Asperger's syndrome\u000bautism spectrum disorder"
+},
+{
+"name": "Methicillin-resistant Staphylococcus aureus\u000bMRSA, type of bacteria"
+},
+{
+"name": "Staphylococcus aureus\u000btype of bacteria"
+},
+{
+"name": "Failure to thrive - child\u000bFailure to thrive-child\u000bFailure to thrive (child)"
+},
+{
+"name": "Hemochromatosis\u000bexcess iron disorder"
+},
+{
+"name": "Impetigo\u000bbacterial skin infection"
+},
+{
+"name": "Inhaled foreign body\u000bin respiratory tract"
+},
+{
+"name": "Jaundice\u000byellow skin color"
+},
+{
+"name": "Keratosis pilaris\u000bcommon skin condition"
+},
+{
+"name": "Head lice"
+},
+{
+"name": "Body lice"
+},
+{
+"name": "Pubic lice"
+},
+{
+"name": "Wilsons disease\u000bcopper accumulation in tissues"
+},
+{
+"name": "Rocky mountain spotted fever\u000bbacterial infection spread by ticks"
+},
+{
+"name": "Erysipelas\u000bbacterial skin infection"
+},
+{
+"name": "Cat scratch fever\u000bbacterial infection after cat scratch"
+},
+{
+"name": "Coccidiomycosis\u000bvalley fever, fungal infection"
+},
+{
+"name": "Meconium aspiration\u000bnewborn respiratory problem"
+},
+{
+"name": "Neurofibromatosis\u000binherited nerve tumors"
+},
+{
+"name": "Night terrors\u000bnightmares"
+},
+{
+"name": "Pinworms\u000bcommon intestinal worm"
+},
+{
+"name": "Reyes syndrome\u000brare liver and brain swelling"
+},
+{
+"name": "Mongolian spots\u000bblue birthmark"
+},
+{
+"name": "Rheumatic fever\u000bcomplication of strep infection"
+},
+{
+"name": "Rhinitis\u000bnasal inflammation"
+},
+{
+"name": "Ringworm of the scalp\u000btinea capitis"
+},
+{
+"name": "Ringworm of the body\u000btinea corporis"
+},
+{
+"name": "Rubella\u000bGerman measles"
+},
+{
+"name": "Scabies\u000bskin disease caused by mites"
+},
+{
+"name": "Atrial flutter\u000birregular heart rate"
+},
+{
+"name": "Pepto Bismol or Kaopectate ingestion\u000bbismuth"
+},
+{
+"name": "Long QT Syndrome\u000binherited heart condition"
+},
+{
+"name": "Coronary artery anomaly\u000bheart artery malformation"
+},
+{
+"name": "Stroke\u000bCVA, cerebrovascular accident"
+},
+{
+"name": "Subconjunctival hemorrhage\u000bblood covering white part of the eye"
+},
+{
+"name": "Sleep apnea\u000bchronic sleep disruption"
+},
+{
+"name": "Myotonia\u000bimpaired muscle relaxation"
+},
+{
+"name": "Carbuncle"
+},
+{
+"name": "Melanoma\u000bskin cancer"
+},
+{
+"name": "Cat bite"
+},
+{
+"name": "Dog bite"
+},
+{
+"name": "Muscle spasm\u000bcharley horse"
+},
+{
+"name": "Hyperosmolar hyperglycemic state\u000bseverely elevated glucose level"
+},
+{
+"name": "Tetanus\u000blockjaw"
+},
+{
+"name": "Tourette syndrome\u000brepetitive involuntary movements, vocalizations"
+},
+{
+"name": "Umbilical hernia\u000bbelly button hernia"
+},
+{
+"name": "Common warts"
+},
+{
+"name": "Transient global amnesia\u000bsudden period of short-term memory loss"
+},
+{
+"name": "Osteoporosis\u000bextremely thin bone"
+},
+{
+"name": "Bird flu\u000bavian influenza"
+},
+{
+"name": "Cubital tunnel syndrome\u000bnerve compression in the elbow"
+},
+{
+"name": "Foot fracture\u000bbroken foot"
+},
+{
+"name": "Ankle fracture\u000bbroken ankle"
+},
+{
+"name": "Histoplasmosis\u000bfungal infection"
+},
+{
+"name": "Tick bite"
+},
+{
+"name": "Q fever\u000bflu-like bacterial illness"
+},
+{
+"name": "Broken heart syndrome\u000bTakotsubo cardiomyopathy"
+},
+{
+"name": "Whipple's disease\u000brare bacterial infection of the small intestine"
+},
+{
+"name": "Near drowning"
+},
+{
+"name": "Clostridium difficile\u000bC. Diff"
+},
+{
+"name": "Sea lice bite"
+},
+{
+"name": "Ascites\u000bfluid in the abdomen"
+},
+{
+"name": "Sunburn"
+},
+{
+"name": "Sun poisoning"
+},
+{
+"name": "Cystic fibrosis\u000binherited disease of lungs, digestive system"
+},
+{
+"name": "Sever's disease\u000bcalcaneal apophysitis, common cause of heel pain"
+},
+{
+"name": "Panhypopituitarism\u000bpituitary gland malfunction"
+},
+{
+"name": "Down syndrome\u000bcommon genetic disorder"
+},
+{
+"name": "Hair loss\u000balopecia"
+},
+{
+"name": "Vaginal yeast\u000bfungal infection"
+},
+{
+"name": "Rickets\u000bchildhood bone disease"
+},
+{
+"name": "Alzheimer's disease\u000bdementia"
+},
+{
+"name": "Human papillomavirus infection\u000bHPV"
+},
+{
+"name": "Erectile dysfunction\u000bED"
+},
+{
+"name": "Congenital heart disease\u000bheart defect at birth"
+},
+{
+"name": "Lumbar spinal stenosis\u000bspinal cord compression"
+},
+{
+"name": "Stomach cancer\u000bgastric cancer"
+},
+{
+"name": "Moles\u000bnevi"
+},
+{
+"name": "Idiopathic thrombocytopenia purpura\u000bITP, low platelets"
+},
+{
+"name": "Thrombotic thrombocytopenia purpura\u000bTTP, rare blood disorder\u000bThrombotic thrombocytopenic purpura"
+},
+{
+"name": "Ventricular tachycardia\u000bVT, dangerous irregular heart beat"
+},
+{
+"name": "Cardiac arrest\u000bheart stops"
+},
+{
+"name": "Frostbite\u000btissue damage from cold"
+},
+{
+"name": "Trench foot\u000bimmersion foot"
+},
+{
+"name": "Skin blood vessel damage\u000bChilblains, pernio"
+},
+{
+"name": "Gangrene\u000bdeath of body tissue"
+},
+{
+"name": "Food poisoning"
+},
+{
+"name": "Lactose intolerance"
+},
+{
+"name": "Raynaud's disease\u000bblood vessel constriction"
+},
+{
+"name": "Muscular dystrophy\u000binherited muscle disease"
+},
+{
+"name": "Diverticulosis\u000bweakening of the large intestine wall"
+},
+{
+"name": "Graves' disease\u000boverproduction of thyroid hormone"
+},
+{
+"name": "Emphysema\u000bCOPD, lung disease"
+},
+{
+"name": "Amyotrophic lateral sclerosis\u000bALS, Lou Gehrig's disease"
+},
+{
+"name": "Sarcoidosis\u000binflammatory disease"
+},
+{
+"name": "Folliculitis\u000bhair follicle infection"
+},
+{
+"name": "Boil\u000bpus-filled lump"
+},
+{
+"name": "Angioedema\u000bswelling of skin, lips, eyes"
+},
+{
+"name": "Hot tub follicullitis\u000bhair follicle infection\u000bPustular folliculitis"
+},
+{
+"name": "Detached retina\u000bretinal detachment"
+},
+{
+"name": "Posterior vitreous detachment\u000bcommon eye abnormality"
+},
+{
+"name": "Thyroid cancer\u000bneck gland cancer"
+},
+{
+"name": "Coronary artery disease\u000bCAD, heart disease"
+},
+{
+"name": "Double diabetes\u000bhybrid diabetes"
+},
+{
+"name": "Birth control pill use"
+},
+{
+"name": "Toe fracture"
+},
+{
+"name": "Finger fracture\u000bbroken finger"
+},
+{
+"name": "Hand fracture\u000bbroken hand"
+},
+{
+"name": "Scaphoid fracture\u000bbroken hand bone"
+},
+{
+"name": "Clavicle fracture\u000bbroken collar bone"
+},
+{
+"name": "Valvular heart disease\u000babnormal heart valves"
+},
+{
+"name": "Aortic regurgitation\u000bleaking heart valve"
+},
+{
+"name": "Mitral stenosis\u000btight heart valve"
+},
+{
+"name": "Mitral regurgitation\u000bleaking heart valve"
+},
+{
+"name": "Cataracts\u000bclouding of the eye lens"
+},
+{
+"name": "Thalassemia\u000bMediterranean anemia, inherited blood disorder"
+},
+{
+"name": "Iron deficiency anemia\u000blow red blood cell count"
+},
+{
+"name": "Hemolytic anemia\u000bred blood cell destruction disorder"
+},
+{
+"name": "Pterygium\u000bgrowth on the eye"
+},
+{
+"name": "Pernicious anemia\u000bvitamin deficiency blood disorder"
+},
+{
+"name": "Addison's disease\u000badrenal insufficiency"
+},
+{
+"name": "Heart attack\u000bacute myocardial infarction, AMI"
+},
+{
+"name": "Scleroderma\u000bprogressive hardening of soft tissue"
+},
+{
+"name": "Medication reaction"
+},
+{
+"name": "Myxedema coma\u000bseverely low thyroid hormone"
+},
+{
+"name": "Bed bugs"
+},
+{
+"name": "Athlete's foot\u000btinea pedis"
+},
+{
+"name": "Early menopause\u000bpremature ovarian failure"
+},
+{
+"name": "Carcinoid syndrome\u000bflushing, diarrhea"
+},
+{
+"name": "Mayer Rokitansky K?ster Hauser syndrome\u000bMRKH, inherited vaginal abnormality"
+},
+{
+"name": "Obesity"
+},
+{
+"name": "Hyperparathyroidism\u000belevated parathyroid hormone levels"
+},
+{
+"name": "Cauliflower ear\u000bwrestlers ear"
+},
+{
+"name": "Muscle tear"
+},
+{
+"name": "Gastroparesis\u000bstomach muscle malfunction"
+},
+{
+"name": "Scalded skin syndrome\u000bblistering skin infection"
+},
+{
+"name": "Colon polyps\u000blarge intestine tumors"
+},
+{
+"name": "Loffler's syndrome\u000bpulmonary eosinophilia, lung inflammation"
+},
+{
+"name": "Methemoglobinemia\u000bblood disorder"
+},
+{
+"name": "Amaurosis fugax\u000bmomentary vision loss in one eye"
+},
+{
+"name": "Tendon laceration\u000btendon cut"
+},
+{
+"name": "Foreign body in a wound"
+},
+{
+"name": "Wound infection\u000bcut infection"
+},
+{
+"name": "Blood vessel injury"
+},
+{
+"name": "Hidradenitis suppurativa\u000bchronic collections of pus"
+},
+{
+"name": "Spleen injury\u000bsplenic rupture"
+},
+{
+"name": "Liver injury\u000bliver trauma"
+},
+{
+"name": "Radiation exposure\u000bradiation sickness"
+},
+{
+"name": "Marfan syndrome\u000brare inherited disease"
+},
+{
+"name": "Tape worm infection"
+},
+{
+"name": "Teething"
+},
+{
+"name": "Rabies\u000bdeadly viral illness transmitted by animals"
+},
+{
+"name": "Toxic megacolon\u000brapid dilation of the colon"
+},
+{
+"name": "Basal cell carcinoma\u000bskin cancer"
+},
+{
+"name": "Skin tags\u000bacrochordons"
+},
+{
+"name": "Pneumocystis pneumonia\u000bPCP, fungal lung infection"
+},
+{
+"name": "Compression fracture\u000bbroken spinal bone"
+},
+{
+"name": "Hypersensitivity pneumonitis\u000ballergic lung disease"
+},
+{
+"name": "Mucormycosis\u000bfungal infection"
+},
+{
+"name": "Interstitial lung disease\u000bchronic scarring of the lung"
+},
+{
+"name": "Flea bite"
+},
+{
+"name": "Ingrown nail\u000bonychocryptosis"
+},
+{
+"name": "Porphyria\u000brare disorder of skin, nervous system"
+},
+{
+"name": "Gilbert's disease\u000bliver abnormality"
+},
+{
+"name": "Goodpasture syndrome\u000bdisease of kidneys and lungs"
+},
+{
+"name": "Newborn jaundice\u000bnewborn skin discoloration"
+},
+{
+"name": "Ankle sprain"
+},
+{
+"name": "Chikungunya\u000bviral illness from mosquitoes"
+},
+{
+"name": "Japanese encephalitis\u000bviral brain infection"
+},
+{
+"name": "Brucellosis\u000bbacterial infection spread from animals"
+},
+{
+"name": "Post herpetic neuralgia\u000bnerve pain after shingles"
+},
+{
+"name": "Psoriatic arthritis\u000bjoint pain and stiffness"
+},
+{
+"name": "Flat feet\u000bpes planus"
+},
+{
+"name": "Heel spur"
+},
+{
+"name": "Lewy body dementia\u000bcommon type of dementia"
+},
+{
+"name": "Facial nerve paralysis"
+},
+{
+"name": "Macular degeneration\u000bchronic eye disease"
+},
+{
+"name": "Pyomyositis\u000bmuscle infection"
+},
+{
+"name": "Synovitis\u000binflammation of joint lining"
+},
+{
+"name": "Diabetic retinopathy\u000bdiabetic eye disease"
+},
+{
+"name": "Aspiration pneumonia\u000blung inflammation or infection"
+},
+{
+"name": "Hepatic encephalopathy\u000bconfusion from liver failure"
+},
+{
+"name": "Pemphigus\u000brare skin disorder"
+},
+{
+"name": "Diabetes insipidus\u000bexcessive water loss from the kidneys"
+},
+{
+"name": "Ventral hernia\u000bbulging of the abdominal wall"
+},
+{
+"name": "Listeria\u000bserious bacterial illness"
+},
+{
+"name": "Shin splints\u000btibial stress syndrome"
+},
+{
+"name": "Sarcoma\u000bsoft tissue cancer"
+},
+{
+"name": "Bone cancer\u000bbone tumor"
+},
+{
+"name": "Mastocytosis\u000burticaria pigmentosa, skin disease"
+},
+{
+"name": "Jellyfish stings"
+},
+{
+"name": "Hemolytic uremic syndrome\u000bHUS, red blood cell destruction, kidney disease"
+},
+{
+"name": "Triangular fibrocartilage complex injury\u000bwrist injury"
+},
+{
+"name": "Multiple myeloma\u000bblood cancer"
+},
+{
+"name": "Miller Fisher Syndrome\u000brare nerve disease"
+},
+{
+"name": "Aponeurotic ptosis\u000bage-related drooping eyelid"
+},
+{
+"name": "Complex migraine\u000bmigraine with neurologic changes"
+},
+{
+"name": "Reflex sympathetic dystrophy\u000bcomplex pain syndrome"
+},
+{
+"name": "Golfer's elbow\u000bmedial epicondylitis of elbow"
+},
+{
+"name": "Small cell lung cancer"
+},
+{
+"name": "Bullous myringitis\u000bmiddle ear infection"
+},
+{
+"name": "Chronic venous insufficiency\u000bweakened leg veins"
+},
+{
+"name": "Diabetic neuropathy\u000bnerve damage"
+},
+{
+"name": "Diabetic nephropathy\u000bdiabetes and kidney disease"
+},
+{
+"name": "Dysthymia\u000bdepression, dysthymic disorder"
+},
+{
+"name": "Lymphedema\u000blymphatic obstruction"
+},
+{
+"name": "Tension headache\u000bstress headache"
+},
+{
+"name": "Pneumoconiosis\u000blung disease"
+},
+{
+"name": "Varicose veins"
+},
+{
+"name": "Diabetes mellitus type 1\u000belevated blood sugar"
+},
+{
+"name": "Viral exanthem\u000brash from viral infection"
+},
+{
+"name": "Foreign body in ear"
+},
+{
+"name": "Actinic keratosis\u000bAK, skin growth"
+},
+{
+"name": "Molluscum contagiosum"
+},
+{
+"name": "Eustachian tube dysfunction\u000binner ear tube"
+},
+{
+"name": "Phimosis"
+},
+{
+"name": "Lumbar spondylosis\u000bspine arthritis"
+},
+{
+"name": "Muscle and ligament inflammation\u000benthesopathy"
+},
+{
+"name": "Male pattern hair loss\u000bhereditary-patterned baldness\u000bAndrogenic alopecia"
+},
+{
+"name": "Male infertility"
+},
+{
+"name": "Scleritis\u000binflammation of the eye"
+},
+{
+"name": "Abdominal adhesions\u000bscar tissue"
+},
+{
+"name": "Chondromalacia\u000bcartilage damage"
+},
+{
+"name": "Focal seizure\u000bpartial seizure"
+},
+{
+"name": "Generalized seizure disorder\u000bgeneralized epilepsy"
+},
+{
+"name": "Peyronie's disease\u000babnormal curvature of the penis"
+},
+{
+"name": "Mycoplasma infection\u000bbacteria"
+},
+{
+"name": "Duodenal cancer\u000bsmall intestine"
+},
+{
+"name": "Small bowel cancer\u000bsmall intestine"
+},
+{
+"name": "Gallbladder cancer"
+},
+{
+"name": "Essential thrombocythemia\u000bexcessive blood platelets"
+},
+{
+"name": "Thyroid cyst"
+},
+{
+"name": "Herpangina\u000bmouth blisters"
+},
+{
+"name": "Ewing's sarcoma\u000bcancer"
+},
+{
+"name": "Extragonadal germ cell tumors"
+},
+{
+"name": "Fallopian tube cancer"
+},
+{
+"name": "Familial dysautonomia\u000bgenetic disorder"
+},
+{
+"name": "Farsightedness\u000bhyperopia/hypermetropia"
+},
+{
+"name": "Food allergy"
+},
+{
+"name": "Foot sprain"
+},
+{
+"name": "Foot ulcer"
+},
+{
+"name": "Fragile X syndrome\u000bgenetic disorder"
+},
+{
+"name": "Friedreich's Ataxia\u000bgenetic disorder"
+},
+{
+"name": "Gallbladder and bile duct cancer\u000bGallbladder cancer\u000bbile duct cancer"
+},
+{
+"name": "Glomerulonephritis\u000bkidney disease"
+},
+{
+"name": "Graves? eye disease\u000bGraves? ophthalmopathy"
+},
+{
+"name": "Head injury in children\u000bNon-accidental traumatic head injury to child"
+},
+{
+"name": "Hemorrhagic stroke\u000bCVA, cerebrovascular accident"
+},
+{
+"name": "Hepatitis A"
+},
+{
+"name": "Excessive hair growth\u000bHirsutism"
+},
+{
+"name": "Huntington disease\u000bchorea"
+},
+{
+"name": "Hyperkeratosis\u000bskin thickening"
+},
+{
+"name": "Lacunar stroke"
+},
+{
+"name": "Langerhans cell histiocytosis\u000bHistiocytosis X"
+},
+{
+"name": "Large cell lung cancer"
+},
+{
+"name": "Malignant Mesothelioma"
+},
+{
+"name": "Melasma\u000bcholoasma"
+},
+{
+"name": "Morton's neuroma"
+},
+{
+"name": "Neuroblastoma"
+},
+{
+"name": "Paget disease of the bone\u000bpaget's disease of the bone"
+},
+{
+"name": "Parathyroid cancer"
+},
+{
+"name": "Phenylketonuria\u000bPKU"
+},
+{
+"name": "Paraphimosis"
+},
+{
+"name": "Polyarteritis Nodosa\u000bPAN"
+},
+{
+"name": "Post-polio syndrome"
+},
+{
+"name": "Posterior cruciate ligament injuries\u000bPCL injury\u000bRupture of posterior cruciate ligament\u000bSprain of posterior cruciate ligament of knee"
+},
+{
+"name": "Presbyopia\u000baging vision"
+},
+{
+"name": "Rectocele"
+},
+{
+"name": "Retinitis pigmentosa"
+},
+{
+"name": "Retinoblastoma\u000bpediatric eye cancer"
+},
+{
+"name": "Retrobulbar Neuritis"
+},
+{
+"name": "Shoulder sprain"
+},
+{
+"name": "Squamous cell lung cancer"
+},
+{
+"name": "Takayasu's arteritis\u000bGiant cell arteritis of the young"
+},
+{
+"name": "Tay-Sachs disease"
+},
+{
+"name": "Tear duct infection\u000bDacryocystitis"
+},
+{
+"name": "Thrombophlebitis\u000bsuperficial"
+},
+{
+"name": "Traumatic hip dislocation\u000btraumatic dislocation of hip"
+},
+{
+"name": "Traveler's diarrhea\u000bMontezuma's revenge"
+},
+{
+"name": "Tropical sprue"
+},
+{
+"name": "Wilms' Tumor"
+},
+{
+"name": "Wrist sprain"
+},
+{
+"name": "Yaws"
+},
+{
+"name": "Amyloidosis"
+},
+{
+"name": "Arnold Chiari malformation"
+},
+{
+"name": "Broken jaw\u000bmandible fracture"
+},
+{
+"name": "Conversion disorder"
+},
+{
+"name": "Strabismus\u000bcrossed eyes"
+},
+{
+"name": "Decompression sickness\u000bbends, caisson's disease"
+},
+{
+"name": "Delusional disorder"
+},
+{
+"name": "Dermatofibroma"
+},
+{
+"name": "Fibromuscular dysplasia\u000bFMD"
+},
+{
+"name": "Hypoparathyroidism"
+},
+{
+"name": "Ichthyosis"
+},
+{
+"name": "Keloid\u000bovergrown scar"
+},
+{
+"name": "Broken leg\u000bleg fracture"
+},
+{
+"name": "Prediabetes\u000bhigh blood sugar"
+},
+{
+"name": "Subluxation"
+},
+{
+"name": "Vitamin D deficiency"
+},
+{
+"name": "Supraventricular tachycardia\u000bSVT"
+},
+{
+"name": "Traumatic brain injury"
+},
+{
+"name": "Testicular hypofunction"
+},
+{
+"name": "Von Willebrand's disease"
+},
+{
+"name": "Lymphadenitis"
+},
+{
+"name": "Drug withdrawal syndrome"
+},
+{
+"name": "Stuttering"
+},
+{
+"name": "Tic Disorder"
+},
+{
+"name": "Conduct disorder"
+},
+{
+"name": "Charcot-Marie-Tooth disease"
+},
+{
+"name": "Neutropenia"
+},
+{
+"name": "Greater trochanteric bursitis\u000bhip bursitis"
+},
+{
+"name": "Turner syndrome\u000bgonadal dysgenesis"
+},
+{
+"name": "Pancytopenia"
+},
+{
+"name": "Cerebellar Ataxia"
+},
+{
+"name": "Complex partial seizures\u000bpsychomotor epilepsy"
+},
+{
+"name": "Meralgia Paresthetica"
+},
+{
+"name": "Retinopathy"
+},
+{
+"name": "Corneal ulcer"
+},
+{
+"name": "Blocked tear duct\u000bdacryostenosis"
+},
+{
+"name": "Aphakia"
+},
+{
+"name": "Bacterial tracheitis"
+},
+{
+"name": "Trigger finger"
+},
+{
+"name": "Glossitis"
+},
+{
+"name": "Anal fistula"
+},
+{
+"name": "Urethral stricture"
+},
+{
+"name": "Pemphigoid"
+},
+{
+"name": "Scar"
+},
+{
+"name": "Finger amputation"
+},
+{
+"name": "Hydronephrosis"
+},
+{
+"name": "Night blindness\u000bnyctalopia"
+},
+{
+"name": "Scurvy\u000bvitamin C deficiency"
+},
+{
+"name": "Beriberi\u000bthiamine\u000bvitamin B1 deficiency"
+},
+{
+"name": "Cutaneous T cell lymphoma"
+},
+{
+"name": "Cardiomegaly\u000benlarged heart"
+},
+{
+"name": "Developmental delay"
+},
+{
+"name": "Breast cyst"
+},
+{
+"name": "Ductal carcinoma in situ\u000bDCIS, breast cancer"
+},
+{
+"name": "Missed abortion"
+},
+{
+"name": "Triple negative breast cancer"
+},
+{
+"name": "Invasive ductal carcinoma"
+},
+{
+"name": "Invasive lobular carcinoma"
+},
+{
+"name": "Dystonia"
+},
+{
+"name": "Failure to thrive - adult\u000bfailure to thrive"
+},
+{
+"name": "Xmain"
+}
+],
+"Message": "List Of Diseas",
+"success": true
+}
